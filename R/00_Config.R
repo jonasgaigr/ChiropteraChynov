@@ -80,3 +80,19 @@ chynov <- df %>%
   )
 
 glimpse(chynov)
+
+# Select species and month for detailed analysis ----
+chynov_selected <-
+  chynov %>%
+  dplyr::filter(
+    druh %in% c(
+      "Myotis nattereri", 
+      "Myotis daubentonii", 
+      "Myotis myotis", 
+      "Plecotus auritus", 
+      "Barbastella barbastellus")
+    ) %>%
+  dplyr::filter(
+    mesic == "02"
+  )
+
