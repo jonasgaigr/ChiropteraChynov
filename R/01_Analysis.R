@@ -14,21 +14,21 @@ chynov_sum <-
 # assume `chynov` has columns mesic, rok, druh and pocet
 
 # distribuce log-transformovaných početností
-descdist(
+fitdistrplus::descdist(
   log(chynov$pocet[chynov$pocet > 0]),
   discrete = FALSE
 )
 
 
 # fit uniform distribution
-fit_uniform <- fitdist(chynov$pocet, "unif")
+fit_uniform <- fitdistrplus::fitdist(chynov$pocet, "unif")
 
 # normality tests
 shap_raw <- shapiro.test(chynov$pocet)
 shap_log <- shapiro.test(log(chynov$pocet))
 
 # dip-test for multimodality
-dip_raw <- dip.test(log(chynov$pocet))
+dip_raw <- diptest::dip.test(log(chynov$pocet))
 
 # Kruskal–Wallis test across months
 kruskal_month <- kruskal.test(pocet ~ mesic, data = chynov)
@@ -82,4 +82,7 @@ bat_models_formatted <- bat_models %>%
 # View or export
 print(bat_models)
 
-write.csv2(bat_models, "bat_trends_by_species.csv", row.names = FALSE)
+readr::write_csv2(
+  bat_models, 
+  "Outputs/bat_trends_by_species.csv"
+  )
