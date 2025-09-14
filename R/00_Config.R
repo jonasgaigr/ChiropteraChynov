@@ -96,3 +96,13 @@ chynov_selected <-
     mesic == "02"
   )
 
+# Write processed data ----
+write_csv2(
+  chynov,
+  "Data/Processed/chynov.csv"
+)
+
+write_csv2(
+  chynov_selected,
+  "Data/Processed/chynov_selected.csv"
+)
