@@ -14,8 +14,18 @@ species_list <- unique(chynov$druh)
 plot_species <- function(sp, data, monthly = FALSE, output_dir = "Outputs/Plots") {
   df_sp <- dplyr::filter(data, druh == sp)
   
-  if(monthly) {
-    aes_mapping <- aes(x = as.numeric(rok), y = pocet, colour = as.factor(mesic))
+  # Převod měsíců jen pokud monthly = TRUE
+  if (monthly) {
+    df_sp <- df_sp %>%
+      dplyr::mutate(
+        mesic = dplyr::case_when(
+          mesic %in% c("2", "02", 2)   ~ "únor",
+          mesic %in% c("12", "12", 12) ~ "prosinec",
+          TRUE ~ as.character(mesic)
+        ),
+        mesic = factor(mesic, levels = c("prosinec", "únor"))
+      )
+    aes_mapping <- aes(x = as.numeric(rok), y = pocet, colour = mesic)
   } else {
     aes_mapping <- aes(x = as.numeric(rok), y = pocet)
   }
