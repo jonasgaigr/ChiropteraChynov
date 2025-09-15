@@ -1,16 +1,16 @@
 rok;mesic;sezona;druh;pocet
-1976;12;1976/1977;celkem;0
-1977;02;1976/1977;celkem;14
-1976;12;1976/1977;Myotis nattereri;0
-1977;02;1976/1977;Myotis nattereri;9
-1976;12;1976/1977;Myotis daubentonii;0
-1977;02;1976/1977;Myotis daubentonii;0
+1976;12;1976/1977;celkem;38
+1977;02;1976/1977;celkem;106
+1976;12;1976/1977;Myotis nattereri;16
+1977;02;1976/1977;Myotis nattereri;73
+1976;12;1976/1977;Myotis daubentonii;6
+1977;02;1976/1977;Myotis daubentonii;9
 1976;12;1976/1977;Myotis myotis;0
-1977;02;1976/1977;Myotis myotis;2
-1976;12;1976/1977;Plecotus auritus;0
-1977;02;1976/1977;Plecotus auritus;1
+1977;02;1976/1977;Myotis myotis;8
+1976;12;1976/1977;Plecotus auritus;16
+1977;02;1976/1977;Plecotus auritus;16
 1976;12;1976/1977;Myotis mystacinus;0
-1977;02;1976/1977;Myotis mystacinus;2
+1977;02;1976/1977;Myotis mystacinus;0
 1976;12;1976/1977;Myotis brandtii;0
 1977;02;1976/1977;Myotis brandtii;0
 1976;12;1976/1977;Barbastella barbastellus;0
@@ -21,21 +21,21 @@ rok;mesic;sezona;druh;pocet
 1977;02;1976/1977;Myotis emarginatus;0
 1976;12;1976/1977;Myotis bechsteinii;0
 1977;02;1976/1977;Myotis bechsteinii;0
-1977;12;1977/1978;celkem;18
-1978;02;1977/1978;celkem;0
-1977;12;1977/1978;Myotis nattereri;8
-1978;02;1977/1978;Myotis nattereri;0
-1977;12;1977/1978;Myotis daubentonii;3
-1978;02;1977/1978;Myotis daubentonii;0
-1977;12;1977/1978;Myotis myotis;3
-1978;02;1977/1978;Myotis myotis;0
-1977;12;1977/1978;Plecotus auritus;3
-1978;02;1977/1978;Plecotus auritus;0
+1977;12;1977/1978;celkem;41
+1978;02;1977/1978;celkem;92
+1977;12;1977/1978;Myotis nattereri;21
+1978;02;1977/1978;Myotis nattereri;54
+1977;12;1977/1978;Myotis daubentonii;8
+1978;02;1977/1978;Myotis daubentonii;14
+1977;12;1977/1978;Myotis myotis;5
+1978;02;1977/1978;Myotis myotis;11
+1977;12;1977/1978;Plecotus auritus;7
+1978;02;1977/1978;Plecotus auritus;13
 1977;12;1977/1978;Myotis mystacinus;0
 1978;02;1977/1978;Myotis mystacinus;0
 1977;12;1977/1978;Myotis brandtii;0
 1978;02;1977/1978;Myotis brandtii;0
-1977;12;1977/1978;Barbastella barbastellus;1
+1977;12;1977/1978;Barbastella barbastellus;0
 1978;02;1977/1978;Barbastella barbastellus;0
 1977;12;1977/1978;Eptesicus serotinus;0
 1978;02;1977/1978;Eptesicus serotinus;0
@@ -43,38 +43,38 @@ rok;mesic;sezona;druh;pocet
 1978;02;1977/1978;Myotis emarginatus;0
 1977;12;1977/1978;Myotis bechsteinii;0
 1978;02;1977/1978;Myotis bechsteinii;0
-1978;12;1978/1979;celkem;0
-1979;02;1978/1979;celkem;15
-1978;12;1978/1979;Myotis nattereri;0
-1979;02;1978/1979;Myotis nattereri;10
-1978;12;1978/1979;Myotis daubentonii;0
-1979;02;1978/1979;Myotis daubentonii;1
-1978;12;1978/1979;Myotis myotis;0
-1979;02;1978/1979;Myotis myotis;2
-1978;12;1978/1979;Plecotus auritus;0
+1978;12;1978/1979;celkem;15
+1979;02;1978/1979;celkem;53
+1978;12;1978/1979;Myotis nattereri;8
+1979;02;1978/1979;Myotis nattereri;33
+1978;12;1978/1979;Myotis daubentonii;1
+1979;02;1978/1979;Myotis daubentonii;4
+1978;12;1978/1979;Myotis myotis;1
+1979;02;1978/1979;Myotis myotis;12
+1978;12;1978/1979;Plecotus auritus;4
 1979;02;1978/1979;Plecotus auritus;2
-1978;12;1978/1979;Myotis mystacinus;0
+1978;12;1978/1979;Myotis mystacinus;1
 1979;02;1978/1979;Myotis mystacinus;0
 1978;12;1978/1979;Myotis brandtii;0
 1979;02;1978/1979;Myotis brandtii;0
 1978;12;1978/1979;Barbastella barbastellus;0
-1979;02;1978/1979;Barbastella barbastellus;0
+1979;02;1978/1979;Barbastella barbastellus;2
 1978;12;1978/1979;Eptesicus serotinus;0
 1979;02;1978/1979;Eptesicus serotinus;0
 1978;12;1978/1979;Myotis emarginatus;0
 1979;02;1978/1979;Myotis emarginatus;0
 1978;12;1978/1979;Myotis bechsteinii;0
 1979;02;1978/1979;Myotis bechsteinii;0
-1979;12;1979/1980;celkem;0
-1980;02;1979/1980;celkem;11
-1979;12;1979/1980;Myotis nattereri;0
-1980;02;1979/1980;Myotis nattereri;7
-1979;12;1979/1980;Myotis daubentonii;0
-1980;02;1979/1980;Myotis daubentonii;1
-1979;12;1979/1980;Myotis myotis;0
-1980;02;1979/1980;Myotis myotis;2
-1979;12;1979/1980;Plecotus auritus;0
-1980;02;1979/1980;Plecotus auritus;0
+1979;12;1979/1980;celkem;30
+1980;02;1979/1980;celkem;68
+1979;12;1979/1980;Myotis nattereri;9
+1980;02;1979/1980;Myotis nattereri;31
+1979;12;1979/1980;Myotis daubentonii;4
+1980;02;1979/1980;Myotis daubentonii;10
+1979;12;1979/1980;Myotis myotis;2
+1980;02;1979/1980;Myotis myotis;12
+1979;12;1979/1980;Plecotus auritus;15
+1980;02;1979/1980;Plecotus auritus;14
 1979;12;1979/1980;Myotis mystacinus;0
 1980;02;1979/1980;Myotis mystacinus;0
 1979;12;1979/1980;Myotis brandtii;0
@@ -87,16 +87,16 @@ rok;mesic;sezona;druh;pocet
 1980;02;1979/1980;Myotis emarginatus;0
 1979;12;1979/1980;Myotis bechsteinii;0
 1980;02;1979/1980;Myotis bechsteinii;0
-1980;12;1980/1981;celkem;0
-1981;02;1980/1981;celkem;10
-1980;12;1980/1981;Myotis nattereri;0
-1981;02;1980/1981;Myotis nattereri;3
-1980;12;1980/1981;Myotis daubentonii;0
-1981;02;1980/1981;Myotis daubentonii;0
-1980;12;1980/1981;Myotis myotis;0
-1981;02;1980/1981;Myotis myotis;5
-1980;12;1980/1981;Plecotus auritus;0
-1981;02;1980/1981;Plecotus auritus;2
+1980;12;1980/1981;celkem;27
+1981;02;1980/1981;celkem;78
+1980;12;1980/1981;Myotis nattereri;12
+1981;02;1980/1981;Myotis nattereri;47
+1980;12;1980/1981;Myotis daubentonii;6
+1981;02;1980/1981;Myotis daubentonii;6
+1980;12;1980/1981;Myotis myotis;5
+1981;02;1980/1981;Myotis myotis;15
+1980;12;1980/1981;Plecotus auritus;4
+1981;02;1980/1981;Plecotus auritus;10
 1980;12;1980/1981;Myotis mystacinus;0
 1981;02;1980/1981;Myotis mystacinus;0
 1980;12;1980/1981;Myotis brandtii;0
@@ -109,129 +109,129 @@ rok;mesic;sezona;druh;pocet
 1981;02;1980/1981;Myotis emarginatus;0
 1980;12;1980/1981;Myotis bechsteinii;0
 1981;02;1980/1981;Myotis bechsteinii;0
-1981;12;1981/1982;celkem;12
-1982;02;1981/1982;celkem;29
-1981;12;1981/1982;Myotis nattereri;3
-1982;02;1981/1982;Myotis nattereri;16
-1981;12;1981/1982;Myotis daubentonii;0
-1982;02;1981/1982;Myotis daubentonii;4
-1981;12;1981/1982;Myotis myotis;3
-1982;02;1981/1982;Myotis myotis;3
-1981;12;1981/1982;Plecotus auritus;4
-1982;02;1981/1982;Plecotus auritus;4
-1981;12;1981/1982;Myotis mystacinus;1
+1981;12;1981/1982;celkem;20
+1982;02;1981/1982;celkem;101
+1981;12;1981/1982;Myotis nattereri;6
+1982;02;1981/1982;Myotis nattereri;57
+1981;12;1981/1982;Myotis daubentonii;3
+1982;02;1981/1982;Myotis daubentonii;9
+1981;12;1981/1982;Myotis myotis;6
+1982;02;1981/1982;Myotis myotis;16
+1981;12;1981/1982;Plecotus auritus;5
+1982;02;1981/1982;Plecotus auritus;16
+1981;12;1981/1982;Myotis mystacinus;0
 1982;02;1981/1982;Myotis mystacinus;0
 1981;12;1981/1982;Myotis brandtii;0
 1982;02;1981/1982;Myotis brandtii;0
-1981;12;1981/1982;Barbastella barbastellus;1
-1982;02;1981/1982;Barbastella barbastellus;2
+1981;12;1981/1982;Barbastella barbastellus;0
+1982;02;1981/1982;Barbastella barbastellus;0
 1981;12;1981/1982;Eptesicus serotinus;0
-1982;02;1981/1982;Eptesicus serotinus;0
+1982;02;1981/1982;Eptesicus serotinus;3
 1981;12;1981/1982;Myotis emarginatus;0
 1982;02;1981/1982;Myotis emarginatus;0
 1981;12;1981/1982;Myotis bechsteinii;0
 1982;02;1981/1982;Myotis bechsteinii;0
-1982;12;1982/1983;celkem;4
-1983;02;1982/1983;celkem;20
-1982;12;1982/1983;Myotis nattereri;3
-1983;02;1982/1983;Myotis nattereri;15
-1982;12;1982/1983;Myotis daubentonii;0
-1983;02;1982/1983;Myotis daubentonii;2
-1982;12;1982/1983;Myotis myotis;0
-1983;02;1982/1983;Myotis myotis;2
-1982;12;1982/1983;Plecotus auritus;1
-1983;02;1982/1983;Plecotus auritus;1
+1982;12;1982/1983;celkem;32
+1983;02;1982/1983;celkem;67
+1982;12;1982/1983;Myotis nattereri;19
+1983;02;1982/1983;Myotis nattereri;46
+1982;12;1982/1983;Myotis daubentonii;1
+1983;02;1982/1983;Myotis daubentonii;6
+1982;12;1982/1983;Myotis myotis;3
+1983;02;1982/1983;Myotis myotis;4
+1982;12;1982/1983;Plecotus auritus;8
+1983;02;1982/1983;Plecotus auritus;11
 1982;12;1982/1983;Myotis mystacinus;0
 1983;02;1982/1983;Myotis mystacinus;0
 1982;12;1982/1983;Myotis brandtii;0
 1983;02;1982/1983;Myotis brandtii;0
 1982;12;1982/1983;Barbastella barbastellus;0
 1983;02;1982/1983;Barbastella barbastellus;0
-1982;12;1982/1983;Eptesicus serotinus;0
+1982;12;1982/1983;Eptesicus serotinus;1
 1983;02;1982/1983;Eptesicus serotinus;0
 1982;12;1982/1983;Myotis emarginatus;0
 1983;02;1982/1983;Myotis emarginatus;0
 1982;12;1982/1983;Myotis bechsteinii;0
 1983;02;1982/1983;Myotis bechsteinii;0
-1983;12;1983/1984;celkem;37
-1984;02;1983/1984;celkem;49
-1983;12;1983/1984;Myotis nattereri;19
-1984;02;1983/1984;Myotis nattereri;31
-1983;12;1983/1984;Myotis daubentonii;5
-1984;02;1983/1984;Myotis daubentonii;12
-1983;12;1983/1984;Myotis myotis;4
-1984;02;1983/1984;Myotis myotis;2
-1983;12;1983/1984;Plecotus auritus;8
-1984;02;1983/1984;Plecotus auritus;3
-1983;12;1983/1984;Myotis mystacinus;0
+1983;12;1983/1984;celkem;NA
+1984;02;1983/1984;celkem;39
+1983;12;1983/1984;Myotis nattereri;NA
+1984;02;1983/1984;Myotis nattereri;24
+1983;12;1983/1984;Myotis daubentonii;NA
+1984;02;1983/1984;Myotis daubentonii;2
+1983;12;1983/1984;Myotis myotis;NA
+1984;02;1983/1984;Myotis myotis;6
+1983;12;1983/1984;Plecotus auritus;NA
+1984;02;1983/1984;Plecotus auritus;5
+1983;12;1983/1984;Myotis mystacinus;NA
 1984;02;1983/1984;Myotis mystacinus;0
-1983;12;1983/1984;Myotis brandtii;0
+1983;12;1983/1984;Myotis brandtii;NA
 1984;02;1983/1984;Myotis brandtii;0
-1983;12;1983/1984;Barbastella barbastellus;1
+1983;12;1983/1984;Barbastella barbastellus;NA
 1984;02;1983/1984;Barbastella barbastellus;1
-1983;12;1983/1984;Eptesicus serotinus;0
-1984;02;1983/1984;Eptesicus serotinus;0
+1983;12;1983/1984;Eptesicus serotinus;NA
+1984;02;1983/1984;Eptesicus serotinus;1
 1983;12;1983/1984;Myotis emarginatus;0
 1984;02;1983/1984;Myotis emarginatus;0
 1983;12;1983/1984;Myotis bechsteinii;0
 1984;02;1983/1984;Myotis bechsteinii;0
-1984;12;1984/1985;celkem;19
-1985;02;1984/1985;celkem;63
-1984;12;1984/1985;Myotis nattereri;7
-1985;02;1984/1985;Myotis nattereri;50
+1984;12;1984/1985;celkem;29
+1985;02;1984/1985;celkem;57
+1984;12;1984/1985;Myotis nattereri;9
+1985;02;1984/1985;Myotis nattereri;30
 1984;12;1984/1985;Myotis daubentonii;3
-1985;02;1984/1985;Myotis daubentonii;3
-1984;12;1984/1985;Myotis myotis;2
-1985;02;1984/1985;Myotis myotis;5
-1984;12;1984/1985;Plecotus auritus;4
-1985;02;1984/1985;Plecotus auritus;2
-1984;12;1984/1985;Myotis mystacinus;2
+1985;02;1984/1985;Myotis daubentonii;7
+1984;12;1984/1985;Myotis myotis;7
+1985;02;1984/1985;Myotis myotis;15
+1984;12;1984/1985;Plecotus auritus;9
+1985;02;1984/1985;Plecotus auritus;5
+1984;12;1984/1985;Myotis mystacinus;0
 1985;02;1984/1985;Myotis mystacinus;0
-1984;12;1984/1985;Myotis brandtii;1
-1985;02;1984/1985;Myotis brandtii;1
+1984;12;1984/1985;Myotis brandtii;0
+1985;02;1984/1985;Myotis brandtii;0
 1984;12;1984/1985;Barbastella barbastellus;0
-1985;02;1984/1985;Barbastella barbastellus;2
-1984;12;1984/1985;Eptesicus serotinus;0
+1985;02;1984/1985;Barbastella barbastellus;0
+1984;12;1984/1985;Eptesicus serotinus;1
 1985;02;1984/1985;Eptesicus serotinus;0
 1984;12;1984/1985;Myotis emarginatus;0
 1985;02;1984/1985;Myotis emarginatus;0
 1984;12;1984/1985;Myotis bechsteinii;0
 1985;02;1984/1985;Myotis bechsteinii;0
-1985;12;1985/1986;celkem;14
-1986;02;1985/1986;celkem;25
-1985;12;1985/1986;Myotis nattereri;5
-1986;02;1985/1986;Myotis nattereri;21
-1985;12;1985/1986;Myotis daubentonii;4
-1986;02;1985/1986;Myotis daubentonii;1
-1985;12;1985/1986;Myotis myotis;5
-1986;02;1985/1986;Myotis myotis;1
-1985;12;1985/1986;Plecotus auritus;0
-1986;02;1985/1986;Plecotus auritus;1
-1985;12;1985/1986;Myotis mystacinus;0
-1986;02;1985/1986;Myotis mystacinus;1
-1985;12;1985/1986;Myotis brandtii;0
+1985;12;1985/1986;celkem;NA
+1986;02;1985/1986;celkem;41
+1985;12;1985/1986;Myotis nattereri;NA
+1986;02;1985/1986;Myotis nattereri;27
+1985;12;1985/1986;Myotis daubentonii;NA
+1986;02;1985/1986;Myotis daubentonii;3
+1985;12;1985/1986;Myotis myotis;NA
+1986;02;1985/1986;Myotis myotis;8
+1985;12;1985/1986;Plecotus auritus;NA
+1986;02;1985/1986;Plecotus auritus;2
+1985;12;1985/1986;Myotis mystacinus;NA
+1986;02;1985/1986;Myotis mystacinus;0
+1985;12;1985/1986;Myotis brandtii;NA
 1986;02;1985/1986;Myotis brandtii;0
-1985;12;1985/1986;Barbastella barbastellus;0
+1985;12;1985/1986;Barbastella barbastellus;NA
 1986;02;1985/1986;Barbastella barbastellus;0
-1985;12;1985/1986;Eptesicus serotinus;0
-1986;02;1985/1986;Eptesicus serotinus;0
+1985;12;1985/1986;Eptesicus serotinus;NA
+1986;02;1985/1986;Eptesicus serotinus;1
 1985;12;1985/1986;Myotis emarginatus;0
 1986;02;1985/1986;Myotis emarginatus;0
 1985;12;1985/1986;Myotis bechsteinii;0
 1986;02;1985/1986;Myotis bechsteinii;0
-1986;12;1986/1987;celkem;6
-1987;02;1986/1987;celkem;12
-1986;12;1986/1987;Myotis nattereri;2
-1987;02;1986/1987;Myotis nattereri;5
-1986;12;1986/1987;Myotis daubentonii;1
-1987;02;1986/1987;Myotis daubentonii;5
-1986;12;1986/1987;Myotis myotis;1
-1987;02;1986/1987;Myotis myotis;1
-1986;12;1986/1987;Plecotus auritus;1
-1987;02;1986/1987;Plecotus auritus;1
+1986;12;1986/1987;celkem;44
+1987;02;1986/1987;celkem;86
+1986;12;1986/1987;Myotis nattereri;17
+1987;02;1986/1987;Myotis nattereri;35
+1986;12;1986/1987;Myotis daubentonii;6
+1987;02;1986/1987;Myotis daubentonii;7
+1986;12;1986/1987;Myotis myotis;8
+1987;02;1986/1987;Myotis myotis;24
+1986;12;1986/1987;Plecotus auritus;13
+1987;02;1986/1987;Plecotus auritus;20
 1986;12;1986/1987;Myotis mystacinus;0
 1987;02;1986/1987;Myotis mystacinus;0
-1986;12;1986/1987;Myotis brandtii;1
+1986;12;1986/1987;Myotis brandtii;0
 1987;02;1986/1987;Myotis brandtii;0
 1986;12;1986/1987;Barbastella barbastellus;0
 1987;02;1986/1987;Barbastella barbastellus;0
@@ -241,839 +241,839 @@ rok;mesic;sezona;druh;pocet
 1987;02;1986/1987;Myotis emarginatus;0
 1986;12;1986/1987;Myotis bechsteinii;0
 1987;02;1986/1987;Myotis bechsteinii;0
-1987;12;1987/1988;celkem;16
-1988;02;1987/1988;celkem;30
-1987;12;1987/1988;Myotis nattereri;6
-1988;02;1987/1988;Myotis nattereri;23
-1987;12;1987/1988;Myotis daubentonii;2
-1988;02;1987/1988;Myotis daubentonii;3
-1987;12;1987/1988;Myotis myotis;1
-1988;02;1987/1988;Myotis myotis;3
-1987;12;1987/1988;Plecotus auritus;7
-1988;02;1987/1988;Plecotus auritus;1
+1987;12;1987/1988;celkem;26
+1988;02;1987/1988;celkem;56
+1987;12;1987/1988;Myotis nattereri;8
+1988;02;1987/1988;Myotis nattereri;25
+1987;12;1987/1988;Myotis daubentonii;3
+1988;02;1987/1988;Myotis daubentonii;7
+1987;12;1987/1988;Myotis myotis;6
+1988;02;1987/1988;Myotis myotis;18
+1987;12;1987/1988;Plecotus auritus;9
+1988;02;1987/1988;Plecotus auritus;3
 1987;12;1987/1988;Myotis mystacinus;0
-1988;02;1987/1988;Myotis mystacinus;0
+1988;02;1987/1988;Myotis mystacinus;1
 1987;12;1987/1988;Myotis brandtii;0
 1988;02;1987/1988;Myotis brandtii;0
 1987;12;1987/1988;Barbastella barbastellus;0
 1988;02;1987/1988;Barbastella barbastellus;0
 1987;12;1987/1988;Eptesicus serotinus;0
-1988;02;1987/1988;Eptesicus serotinus;0
+1988;02;1987/1988;Eptesicus serotinus;2
 1987;12;1987/1988;Myotis emarginatus;0
 1988;02;1987/1988;Myotis emarginatus;0
 1987;12;1987/1988;Myotis bechsteinii;0
 1988;02;1987/1988;Myotis bechsteinii;0
 1988;12;1988/1989;celkem;38
-1989;02;1988/1989;celkem;106
-1988;12;1988/1989;Myotis nattereri;16
-1989;02;1988/1989;Myotis nattereri;73
-1988;12;1988/1989;Myotis daubentonii;6
-1989;02;1988/1989;Myotis daubentonii;9
-1988;12;1988/1989;Myotis myotis;0
-1989;02;1988/1989;Myotis myotis;8
-1988;12;1988/1989;Plecotus auritus;16
-1989;02;1988/1989;Plecotus auritus;16
+1989;02;1988/1989;celkem;72
+1988;12;1988/1989;Myotis nattereri;13
+1989;02;1988/1989;Myotis nattereri;38
+1988;12;1988/1989;Myotis daubentonii;4
+1989;02;1988/1989;Myotis daubentonii;6
+1988;12;1988/1989;Myotis myotis;7
+1989;02;1988/1989;Myotis myotis;21
+1988;12;1988/1989;Plecotus auritus;12
+1989;02;1988/1989;Plecotus auritus;7
 1988;12;1988/1989;Myotis mystacinus;0
 1989;02;1988/1989;Myotis mystacinus;0
 1988;12;1988/1989;Myotis brandtii;0
 1989;02;1988/1989;Myotis brandtii;0
 1988;12;1988/1989;Barbastella barbastellus;0
 1989;02;1988/1989;Barbastella barbastellus;0
-1988;12;1988/1989;Eptesicus serotinus;0
+1988;12;1988/1989;Eptesicus serotinus;2
 1989;02;1988/1989;Eptesicus serotinus;0
 1988;12;1988/1989;Myotis emarginatus;0
 1989;02;1988/1989;Myotis emarginatus;0
 1988;12;1988/1989;Myotis bechsteinii;0
 1989;02;1988/1989;Myotis bechsteinii;0
-1989;12;1989/1990;celkem;41
-1990;02;1989/1990;celkem;92
-1989;12;1989/1990;Myotis nattereri;21
-1990;02;1989/1990;Myotis nattereri;54
-1989;12;1989/1990;Myotis daubentonii;8
-1990;02;1989/1990;Myotis daubentonii;14
-1989;12;1989/1990;Myotis myotis;5
-1990;02;1989/1990;Myotis myotis;11
-1989;12;1989/1990;Plecotus auritus;7
-1990;02;1989/1990;Plecotus auritus;13
+1989;12;1989/1990;celkem;45
+1990;02;1989/1990;celkem;94
+1989;12;1989/1990;Myotis nattereri;13
+1990;02;1989/1990;Myotis nattereri;49
+1989;12;1989/1990;Myotis daubentonii;3
+1990;02;1989/1990;Myotis daubentonii;8
+1989;12;1989/1990;Myotis myotis;11
+1990;02;1989/1990;Myotis myotis;25
+1989;12;1989/1990;Plecotus auritus;17
+1990;02;1989/1990;Plecotus auritus;9
 1989;12;1989/1990;Myotis mystacinus;0
 1990;02;1989/1990;Myotis mystacinus;0
 1989;12;1989/1990;Myotis brandtii;0
 1990;02;1989/1990;Myotis brandtii;0
 1989;12;1989/1990;Barbastella barbastellus;0
 1990;02;1989/1990;Barbastella barbastellus;0
-1989;12;1989/1990;Eptesicus serotinus;0
-1990;02;1989/1990;Eptesicus serotinus;0
+1989;12;1989/1990;Eptesicus serotinus;1
+1990;02;1989/1990;Eptesicus serotinus;3
 1989;12;1989/1990;Myotis emarginatus;0
 1990;02;1989/1990;Myotis emarginatus;0
 1989;12;1989/1990;Myotis bechsteinii;0
 1990;02;1989/1990;Myotis bechsteinii;0
-1990;12;1990/1991;celkem;15
-1991;02;1990/1991;celkem;53
-1990;12;1990/1991;Myotis nattereri;8
-1991;02;1990/1991;Myotis nattereri;33
-1990;12;1990/1991;Myotis daubentonii;1
-1991;02;1990/1991;Myotis daubentonii;4
-1990;12;1990/1991;Myotis myotis;1
-1991;02;1990/1991;Myotis myotis;12
-1990;12;1990/1991;Plecotus auritus;4
-1991;02;1990/1991;Plecotus auritus;2
-1990;12;1990/1991;Myotis mystacinus;1
+1990;12;1990/1991;celkem;58
+1991;02;1990/1991;celkem;114
+1990;12;1990/1991;Myotis nattereri;17
+1991;02;1990/1991;Myotis nattereri;65
+1990;12;1990/1991;Myotis daubentonii;4
+1991;02;1990/1991;Myotis daubentonii;3
+1990;12;1990/1991;Myotis myotis;18
+1991;02;1990/1991;Myotis myotis;32
+1990;12;1990/1991;Plecotus auritus;17
+1991;02;1990/1991;Plecotus auritus;13
+1990;12;1990/1991;Myotis mystacinus;0
 1991;02;1990/1991;Myotis mystacinus;0
 1990;12;1990/1991;Myotis brandtii;0
 1991;02;1990/1991;Myotis brandtii;0
-1990;12;1990/1991;Barbastella barbastellus;0
-1991;02;1990/1991;Barbastella barbastellus;2
-1990;12;1990/1991;Eptesicus serotinus;0
-1991;02;1990/1991;Eptesicus serotinus;0
+1990;12;1990/1991;Barbastella barbastellus;1
+1991;02;1990/1991;Barbastella barbastellus;0
+1990;12;1990/1991;Eptesicus serotinus;1
+1991;02;1990/1991;Eptesicus serotinus;1
 1990;12;1990/1991;Myotis emarginatus;0
 1991;02;1990/1991;Myotis emarginatus;0
 1990;12;1990/1991;Myotis bechsteinii;0
 1991;02;1990/1991;Myotis bechsteinii;0
-1991;12;1991/1992;celkem;30
-1992;02;1991/1992;celkem;68
-1991;12;1991/1992;Myotis nattereri;9
-1992;02;1991/1992;Myotis nattereri;31
-1991;12;1991/1992;Myotis daubentonii;4
-1992;02;1991/1992;Myotis daubentonii;10
-1991;12;1991/1992;Myotis myotis;2
-1992;02;1991/1992;Myotis myotis;12
-1991;12;1991/1992;Plecotus auritus;15
-1992;02;1991/1992;Plecotus auritus;14
-1991;12;1991/1992;Myotis mystacinus;0
+1991;12;1991/1992;celkem;59
+1992;02;1991/1992;celkem;79
+1991;12;1991/1992;Myotis nattereri;30
+1992;02;1991/1992;Myotis nattereri;44
+1991;12;1991/1992;Myotis daubentonii;2
+1992;02;1991/1992;Myotis daubentonii;3
+1991;12;1991/1992;Myotis myotis;17
+1992;02;1991/1992;Myotis myotis;22
+1991;12;1991/1992;Plecotus auritus;7
+1992;02;1991/1992;Plecotus auritus;7
+1991;12;1991/1992;Myotis mystacinus;1
 1992;02;1991/1992;Myotis mystacinus;0
 1991;12;1991/1992;Myotis brandtii;0
 1992;02;1991/1992;Myotis brandtii;0
-1991;12;1991/1992;Barbastella barbastellus;0
-1992;02;1991/1992;Barbastella barbastellus;1
-1991;12;1991/1992;Eptesicus serotinus;0
-1992;02;1991/1992;Eptesicus serotinus;0
+1991;12;1991/1992;Barbastella barbastellus;1
+1992;02;1991/1992;Barbastella barbastellus;2
+1991;12;1991/1992;Eptesicus serotinus;1
+1992;02;1991/1992;Eptesicus serotinus;1
 1991;12;1991/1992;Myotis emarginatus;0
 1992;02;1991/1992;Myotis emarginatus;0
 1991;12;1991/1992;Myotis bechsteinii;0
 1992;02;1991/1992;Myotis bechsteinii;0
-1992;12;1992/1993;celkem;27
-1993;02;1992/1993;celkem;78
-1992;12;1992/1993;Myotis nattereri;12
-1993;02;1992/1993;Myotis nattereri;47
-1992;12;1992/1993;Myotis daubentonii;6
-1993;02;1992/1993;Myotis daubentonii;6
-1992;12;1992/1993;Myotis myotis;5
-1993;02;1992/1993;Myotis myotis;15
-1992;12;1992/1993;Plecotus auritus;4
-1993;02;1992/1993;Plecotus auritus;10
+1992;12;1992/1993;celkem;48
+1993;02;1992/1993;celkem;90
+1992;12;1992/1993;Myotis nattereri;19
+1993;02;1992/1993;Myotis nattereri;42
+1992;12;1992/1993;Myotis daubentonii;3
+1993;02;1992/1993;Myotis daubentonii;7
+1992;12;1992/1993;Myotis myotis;11
+1993;02;1992/1993;Myotis myotis;28
+1992;12;1992/1993;Plecotus auritus;10
+1993;02;1992/1993;Plecotus auritus;9
 1992;12;1992/1993;Myotis mystacinus;0
 1993;02;1992/1993;Myotis mystacinus;0
 1992;12;1992/1993;Myotis brandtii;0
 1993;02;1992/1993;Myotis brandtii;0
-1992;12;1992/1993;Barbastella barbastellus;0
-1993;02;1992/1993;Barbastella barbastellus;0
-1992;12;1992/1993;Eptesicus serotinus;0
-1993;02;1992/1993;Eptesicus serotinus;0
+1992;12;1992/1993;Barbastella barbastellus;3
+1993;02;1992/1993;Barbastella barbastellus;2
+1992;12;1992/1993;Eptesicus serotinus;2
+1993;02;1992/1993;Eptesicus serotinus;2
 1992;12;1992/1993;Myotis emarginatus;0
 1993;02;1992/1993;Myotis emarginatus;0
 1992;12;1992/1993;Myotis bechsteinii;0
 1993;02;1992/1993;Myotis bechsteinii;0
-1993;12;1993/1994;celkem;20
-1994;02;1993/1994;celkem;101
-1993;12;1993/1994;Myotis nattereri;6
-1994;02;1993/1994;Myotis nattereri;57
-1993;12;1993/1994;Myotis daubentonii;3
-1994;02;1993/1994;Myotis daubentonii;9
-1993;12;1993/1994;Myotis myotis;6
-1994;02;1993/1994;Myotis myotis;16
-1993;12;1993/1994;Plecotus auritus;5
-1994;02;1993/1994;Plecotus auritus;16
+1993;12;1993/1994;celkem;55
+1994;02;1993/1994;celkem;105
+1993;12;1993/1994;Myotis nattereri;9
+1994;02;1993/1994;Myotis nattereri;40
+1993;12;1993/1994;Myotis daubentonii;11
+1994;02;1993/1994;Myotis daubentonii;15
+1993;12;1993/1994;Myotis myotis;13
+1994;02;1993/1994;Myotis myotis;33
+1993;12;1993/1994;Plecotus auritus;15
+1994;02;1993/1994;Plecotus auritus;9
 1993;12;1993/1994;Myotis mystacinus;0
 1994;02;1993/1994;Myotis mystacinus;0
 1993;12;1993/1994;Myotis brandtii;0
 1994;02;1993/1994;Myotis brandtii;0
-1993;12;1993/1994;Barbastella barbastellus;0
-1994;02;1993/1994;Barbastella barbastellus;0
-1993;12;1993/1994;Eptesicus serotinus;0
-1994;02;1993/1994;Eptesicus serotinus;3
+1993;12;1993/1994;Barbastella barbastellus;6
+1994;02;1993/1994;Barbastella barbastellus;6
+1993;12;1993/1994;Eptesicus serotinus;1
+1994;02;1993/1994;Eptesicus serotinus;1
 1993;12;1993/1994;Myotis emarginatus;0
-1994;02;1993/1994;Myotis emarginatus;0
+1994;02;1993/1994;Myotis emarginatus;1
 1993;12;1993/1994;Myotis bechsteinii;0
 1994;02;1993/1994;Myotis bechsteinii;0
-1994;12;1994/1995;celkem;32
-1995;02;1994/1995;celkem;67
-1994;12;1994/1995;Myotis nattereri;19
-1995;02;1994/1995;Myotis nattereri;46
-1994;12;1994/1995;Myotis daubentonii;1
-1995;02;1994/1995;Myotis daubentonii;6
-1994;12;1994/1995;Myotis myotis;3
-1995;02;1994/1995;Myotis myotis;4
-1994;12;1994/1995;Plecotus auritus;8
-1995;02;1994/1995;Plecotus auritus;11
+1994;12;1994/1995;celkem;72
+1995;02;1994/1995;celkem;145
+1994;12;1994/1995;Myotis nattereri;25
+1995;02;1994/1995;Myotis nattereri;60
+1994;12;1994/1995;Myotis daubentonii;12
+1995;02;1994/1995;Myotis daubentonii;22
+1994;12;1994/1995;Myotis myotis;15
+1995;02;1994/1995;Myotis myotis;30
+1994;12;1994/1995;Plecotus auritus;16
+1995;02;1994/1995;Plecotus auritus;27
 1994;12;1994/1995;Myotis mystacinus;0
 1995;02;1994/1995;Myotis mystacinus;0
 1994;12;1994/1995;Myotis brandtii;0
 1995;02;1994/1995;Myotis brandtii;0
-1994;12;1994/1995;Barbastella barbastellus;0
-1995;02;1994/1995;Barbastella barbastellus;0
-1994;12;1994/1995;Eptesicus serotinus;1
-1995;02;1994/1995;Eptesicus serotinus;0
+1994;12;1994/1995;Barbastella barbastellus;4
+1995;02;1994/1995;Barbastella barbastellus;5
+1994;12;1994/1995;Eptesicus serotinus;0
+1995;02;1994/1995;Eptesicus serotinus;1
 1994;12;1994/1995;Myotis emarginatus;0
 1995;02;1994/1995;Myotis emarginatus;0
 1994;12;1994/1995;Myotis bechsteinii;0
 1995;02;1994/1995;Myotis bechsteinii;0
-1995;12;1995/1996;celkem;0
-1996;02;1995/1996;celkem;39
-1995;12;1995/1996;Myotis nattereri;0
-1996;02;1995/1996;Myotis nattereri;24
-1995;12;1995/1996;Myotis daubentonii;0
-1996;02;1995/1996;Myotis daubentonii;2
-1995;12;1995/1996;Myotis myotis;0
-1996;02;1995/1996;Myotis myotis;6
-1995;12;1995/1996;Plecotus auritus;0
-1996;02;1995/1996;Plecotus auritus;5
+1995;12;1995/1996;celkem;84
+1996;02;1995/1996;celkem;183
+1995;12;1995/1996;Myotis nattereri;22
+1996;02;1995/1996;Myotis nattereri;79
+1995;12;1995/1996;Myotis daubentonii;15
+1996;02;1995/1996;Myotis daubentonii;25
+1995;12;1995/1996;Myotis myotis;18
+1996;02;1995/1996;Myotis myotis;49
+1995;12;1995/1996;Plecotus auritus;18
+1996;02;1995/1996;Plecotus auritus;25
 1995;12;1995/1996;Myotis mystacinus;0
 1996;02;1995/1996;Myotis mystacinus;0
 1995;12;1995/1996;Myotis brandtii;0
 1996;02;1995/1996;Myotis brandtii;0
-1995;12;1995/1996;Barbastella barbastellus;0
-1996;02;1995/1996;Barbastella barbastellus;1
-1995;12;1995/1996;Eptesicus serotinus;0
-1996;02;1995/1996;Eptesicus serotinus;1
+1995;12;1995/1996;Barbastella barbastellus;10
+1996;02;1995/1996;Barbastella barbastellus;3
+1995;12;1995/1996;Eptesicus serotinus;1
+1996;02;1995/1996;Eptesicus serotinus;2
 1995;12;1995/1996;Myotis emarginatus;0
 1996;02;1995/1996;Myotis emarginatus;0
 1995;12;1995/1996;Myotis bechsteinii;0
 1996;02;1995/1996;Myotis bechsteinii;0
-1996;12;1996/1997;celkem;29
-1997;02;1996/1997;celkem;57
-1996;12;1996/1997;Myotis nattereri;9
-1997;02;1996/1997;Myotis nattereri;30
-1996;12;1996/1997;Myotis daubentonii;3
-1997;02;1996/1997;Myotis daubentonii;7
-1996;12;1996/1997;Myotis myotis;7
-1997;02;1996/1997;Myotis myotis;15
+1996;12;1996/1997;celkem;47
+1997;02;1996/1997;celkem;121
+1996;12;1996/1997;Myotis nattereri;12
+1997;02;1996/1997;Myotis nattereri;54
+1996;12;1996/1997;Myotis daubentonii;6
+1997;02;1996/1997;Myotis daubentonii;14
+1996;12;1996/1997;Myotis myotis;14
+1997;02;1996/1997;Myotis myotis;30
 1996;12;1996/1997;Plecotus auritus;9
-1997;02;1996/1997;Plecotus auritus;5
+1997;02;1996/1997;Plecotus auritus;13
 1996;12;1996/1997;Myotis mystacinus;0
 1997;02;1996/1997;Myotis mystacinus;0
 1996;12;1996/1997;Myotis brandtii;0
 1997;02;1996/1997;Myotis brandtii;0
-1996;12;1996/1997;Barbastella barbastellus;0
-1997;02;1996/1997;Barbastella barbastellus;0
-1996;12;1996/1997;Eptesicus serotinus;1
-1997;02;1996/1997;Eptesicus serotinus;0
+1996;12;1996/1997;Barbastella barbastellus;4
+1997;02;1996/1997;Barbastella barbastellus;8
+1996;12;1996/1997;Eptesicus serotinus;2
+1997;02;1996/1997;Eptesicus serotinus;2
 1996;12;1996/1997;Myotis emarginatus;0
 1997;02;1996/1997;Myotis emarginatus;0
 1996;12;1996/1997;Myotis bechsteinii;0
 1997;02;1996/1997;Myotis bechsteinii;0
-1997;12;1997/1998;celkem;0
-1998;02;1997/1998;celkem;41
-1997;12;1997/1998;Myotis nattereri;0
-1998;02;1997/1998;Myotis nattereri;27
-1997;12;1997/1998;Myotis daubentonii;0
-1998;02;1997/1998;Myotis daubentonii;3
-1997;12;1997/1998;Myotis myotis;0
-1998;02;1997/1998;Myotis myotis;8
-1997;12;1997/1998;Plecotus auritus;0
-1998;02;1997/1998;Plecotus auritus;2
+1997;12;1997/1998;celkem;73
+1998;02;1997/1998;celkem;108
+1997;12;1997/1998;Myotis nattereri;15
+1998;02;1997/1998;Myotis nattereri;28
+1997;12;1997/1998;Myotis daubentonii;10
+1998;02;1997/1998;Myotis daubentonii;7
+1997;12;1997/1998;Myotis myotis;27
+1998;02;1997/1998;Myotis myotis;42
+1997;12;1997/1998;Plecotus auritus;15
+1998;02;1997/1998;Plecotus auritus;18
 1997;12;1997/1998;Myotis mystacinus;0
 1998;02;1997/1998;Myotis mystacinus;0
 1997;12;1997/1998;Myotis brandtii;0
 1998;02;1997/1998;Myotis brandtii;0
-1997;12;1997/1998;Barbastella barbastellus;0
-1998;02;1997/1998;Barbastella barbastellus;0
-1997;12;1997/1998;Eptesicus serotinus;0
-1998;02;1997/1998;Eptesicus serotinus;1
+1997;12;1997/1998;Barbastella barbastellus;5
+1998;02;1997/1998;Barbastella barbastellus;11
+1997;12;1997/1998;Eptesicus serotinus;1
+1998;02;1997/1998;Eptesicus serotinus;2
 1997;12;1997/1998;Myotis emarginatus;0
 1998;02;1997/1998;Myotis emarginatus;0
 1997;12;1997/1998;Myotis bechsteinii;0
 1998;02;1997/1998;Myotis bechsteinii;0
-1998;12;1998/1999;celkem;44
-1999;02;1998/1999;celkem;86
-1998;12;1998/1999;Myotis nattereri;17
-1999;02;1998/1999;Myotis nattereri;35
-1998;12;1998/1999;Myotis daubentonii;6
-1999;02;1998/1999;Myotis daubentonii;7
-1998;12;1998/1999;Myotis myotis;8
-1999;02;1998/1999;Myotis myotis;24
-1998;12;1998/1999;Plecotus auritus;13
-1999;02;1998/1999;Plecotus auritus;20
+1998;12;1998/1999;celkem;54
+1999;02;1998/1999;celkem;91
+1998;12;1998/1999;Myotis nattereri;6
+1999;02;1998/1999;Myotis nattereri;24
+1998;12;1998/1999;Myotis daubentonii;11
+1999;02;1998/1999;Myotis daubentonii;12
+1998;12;1998/1999;Myotis myotis;16
+1999;02;1998/1999;Myotis myotis;37
+1998;12;1998/1999;Plecotus auritus;11
+1999;02;1998/1999;Plecotus auritus;11
 1998;12;1998/1999;Myotis mystacinus;0
 1999;02;1998/1999;Myotis mystacinus;0
 1998;12;1998/1999;Myotis brandtii;0
 1999;02;1998/1999;Myotis brandtii;0
-1998;12;1998/1999;Barbastella barbastellus;0
-1999;02;1998/1999;Barbastella barbastellus;0
-1998;12;1998/1999;Eptesicus serotinus;0
+1998;12;1998/1999;Barbastella barbastellus;9
+1999;02;1998/1999;Barbastella barbastellus;7
+1998;12;1998/1999;Eptesicus serotinus;1
 1999;02;1998/1999;Eptesicus serotinus;0
 1998;12;1998/1999;Myotis emarginatus;0
 1999;02;1998/1999;Myotis emarginatus;0
 1998;12;1998/1999;Myotis bechsteinii;0
 1999;02;1998/1999;Myotis bechsteinii;0
-1999;12;1999/2000;celkem;26
-2000;02;1999/2000;celkem;56
-1999;12;1999/2000;Myotis nattereri;8
+1999;12;1999/2000;celkem;33
+2000;02;1999/2000;celkem;79
+1999;12;1999/2000;Myotis nattereri;3
 2000;02;1999/2000;Myotis nattereri;25
-1999;12;1999/2000;Myotis daubentonii;3
-2000;02;1999/2000;Myotis daubentonii;7
-1999;12;1999/2000;Myotis myotis;6
-2000;02;1999/2000;Myotis myotis;18
-1999;12;1999/2000;Plecotus auritus;9
-2000;02;1999/2000;Plecotus auritus;3
+1999;12;1999/2000;Myotis daubentonii;7
+2000;02;1999/2000;Myotis daubentonii;6
+1999;12;1999/2000;Myotis myotis;10
+2000;02;1999/2000;Myotis myotis;36
+1999;12;1999/2000;Plecotus auritus;6
+2000;02;1999/2000;Plecotus auritus;4
 1999;12;1999/2000;Myotis mystacinus;0
-2000;02;1999/2000;Myotis mystacinus;1
+2000;02;1999/2000;Myotis mystacinus;0
 1999;12;1999/2000;Myotis brandtii;0
 2000;02;1999/2000;Myotis brandtii;0
-1999;12;1999/2000;Barbastella barbastellus;0
-2000;02;1999/2000;Barbastella barbastellus;0
-1999;12;1999/2000;Eptesicus serotinus;0
-2000;02;1999/2000;Eptesicus serotinus;2
+1999;12;1999/2000;Barbastella barbastellus;5
+2000;02;1999/2000;Barbastella barbastellus;4
+1999;12;1999/2000;Eptesicus serotinus;1
+2000;02;1999/2000;Eptesicus serotinus;3
 1999;12;1999/2000;Myotis emarginatus;0
 2000;02;1999/2000;Myotis emarginatus;0
-1999;12;1999/2000;Myotis bechsteinii;0
-2000;02;1999/2000;Myotis bechsteinii;0
-2000;12;2000/2001;celkem;38
-2001;02;2000/2001;celkem;72
-2000;12;2000/2001;Myotis nattereri;13
-2001;02;2000/2001;Myotis nattereri;38
-2000;12;2000/2001;Myotis daubentonii;4
-2001;02;2000/2001;Myotis daubentonii;6
-2000;12;2000/2001;Myotis myotis;7
-2001;02;2000/2001;Myotis myotis;21
-2000;12;2000/2001;Plecotus auritus;12
-2001;02;2000/2001;Plecotus auritus;7
+1999;12;1999/2000;Myotis bechsteinii;1
+2000;02;1999/2000;Myotis bechsteinii;1
+2000;12;2000/2001;celkem;46
+2001;02;2000/2001;celkem;78
+2000;12;2000/2001;Myotis nattereri;10
+2001;02;2000/2001;Myotis nattereri;18
+2000;12;2000/2001;Myotis daubentonii;7
+2001;02;2000/2001;Myotis daubentonii;5
+2000;12;2000/2001;Myotis myotis;17
+2001;02;2000/2001;Myotis myotis;38
+2000;12;2000/2001;Plecotus auritus;5
+2001;02;2000/2001;Plecotus auritus;9
 2000;12;2000/2001;Myotis mystacinus;0
 2001;02;2000/2001;Myotis mystacinus;0
 2000;12;2000/2001;Myotis brandtii;0
 2001;02;2000/2001;Myotis brandtii;0
-2000;12;2000/2001;Barbastella barbastellus;0
-2001;02;2000/2001;Barbastella barbastellus;0
-2000;12;2000/2001;Eptesicus serotinus;2
-2001;02;2000/2001;Eptesicus serotinus;0
+2000;12;2000/2001;Barbastella barbastellus;6
+2001;02;2000/2001;Barbastella barbastellus;7
+2000;12;2000/2001;Eptesicus serotinus;1
+2001;02;2000/2001;Eptesicus serotinus;1
 2000;12;2000/2001;Myotis emarginatus;0
 2001;02;2000/2001;Myotis emarginatus;0
 2000;12;2000/2001;Myotis bechsteinii;0
 2001;02;2000/2001;Myotis bechsteinii;0
-2001;12;2001/2002;celkem;45
-2002;02;2001/2002;celkem;94
-2001;12;2001/2002;Myotis nattereri;13
-2002;02;2001/2002;Myotis nattereri;49
+2001;12;2001/2002;celkem;41
+2002;02;2001/2002;celkem;98
+2001;12;2001/2002;Myotis nattereri;10
+2002;02;2001/2002;Myotis nattereri;28
 2001;12;2001/2002;Myotis daubentonii;3
-2002;02;2001/2002;Myotis daubentonii;8
-2001;12;2001/2002;Myotis myotis;11
-2002;02;2001/2002;Myotis myotis;25
-2001;12;2001/2002;Plecotus auritus;17
-2002;02;2001/2002;Plecotus auritus;9
+2002;02;2001/2002;Myotis daubentonii;7
+2001;12;2001/2002;Myotis myotis;15
+2002;02;2001/2002;Myotis myotis;50
+2001;12;2001/2002;Plecotus auritus;6
+2002;02;2001/2002;Plecotus auritus;7
 2001;12;2001/2002;Myotis mystacinus;0
 2002;02;2001/2002;Myotis mystacinus;0
 2001;12;2001/2002;Myotis brandtii;0
 2002;02;2001/2002;Myotis brandtii;0
-2001;12;2001/2002;Barbastella barbastellus;0
-2002;02;2001/2002;Barbastella barbastellus;0
+2001;12;2001/2002;Barbastella barbastellus;6
+2002;02;2001/2002;Barbastella barbastellus;5
 2001;12;2001/2002;Eptesicus serotinus;1
-2002;02;2001/2002;Eptesicus serotinus;3
+2002;02;2001/2002;Eptesicus serotinus;1
 2001;12;2001/2002;Myotis emarginatus;0
 2002;02;2001/2002;Myotis emarginatus;0
 2001;12;2001/2002;Myotis bechsteinii;0
 2002;02;2001/2002;Myotis bechsteinii;0
-2002;12;2002/2003;celkem;58
-2003;02;2002/2003;celkem;114
-2002;12;2002/2003;Myotis nattereri;17
-2003;02;2002/2003;Myotis nattereri;65
-2002;12;2002/2003;Myotis daubentonii;4
-2003;02;2002/2003;Myotis daubentonii;3
-2002;12;2002/2003;Myotis myotis;18
-2003;02;2002/2003;Myotis myotis;32
-2002;12;2002/2003;Plecotus auritus;17
-2003;02;2002/2003;Plecotus auritus;13
+2002;12;2002/2003;celkem;49
+2003;02;2002/2003;celkem;125
+2002;12;2002/2003;Myotis nattereri;6
+2003;02;2002/2003;Myotis nattereri;38
+2002;12;2002/2003;Myotis daubentonii;7
+2003;02;2002/2003;Myotis daubentonii;7
+2002;12;2002/2003;Myotis myotis;21
+2003;02;2002/2003;Myotis myotis;55
+2002;12;2002/2003;Plecotus auritus;10
+2003;02;2002/2003;Plecotus auritus;14
 2002;12;2002/2003;Myotis mystacinus;0
 2003;02;2002/2003;Myotis mystacinus;0
 2002;12;2002/2003;Myotis brandtii;0
 2003;02;2002/2003;Myotis brandtii;0
-2002;12;2002/2003;Barbastella barbastellus;1
-2003;02;2002/2003;Barbastella barbastellus;0
-2002;12;2002/2003;Eptesicus serotinus;1
-2003;02;2002/2003;Eptesicus serotinus;1
+2002;12;2002/2003;Barbastella barbastellus;5
+2003;02;2002/2003;Barbastella barbastellus;9
+2002;12;2002/2003;Eptesicus serotinus;0
+2003;02;2002/2003;Eptesicus serotinus;2
 2002;12;2002/2003;Myotis emarginatus;0
 2003;02;2002/2003;Myotis emarginatus;0
 2002;12;2002/2003;Myotis bechsteinii;0
 2003;02;2002/2003;Myotis bechsteinii;0
-2003;12;2003/2004;celkem;0
-2004;02;2003/2004;celkem;79
-2003;12;2003/2004;Myotis nattereri;0
-2004;02;2003/2004;Myotis nattereri;44
-2003;12;2003/2004;Myotis daubentonii;0
-2004;02;2003/2004;Myotis daubentonii;3
-2003;12;2003/2004;Myotis myotis;0
-2004;02;2003/2004;Myotis myotis;22
-2003;12;2003/2004;Plecotus auritus;0
-2004;02;2003/2004;Plecotus auritus;7
+2003;12;2003/2004;celkem;61
+2004;02;2003/2004;celkem;92
+2003;12;2003/2004;Myotis nattereri;10
+2004;02;2003/2004;Myotis nattereri;17
+2003;12;2003/2004;Myotis daubentonii;13
+2004;02;2003/2004;Myotis daubentonii;8
+2003;12;2003/2004;Myotis myotis;23
+2004;02;2003/2004;Myotis myotis;48
+2003;12;2003/2004;Plecotus auritus;7
+2004;02;2003/2004;Plecotus auritus;8
 2003;12;2003/2004;Myotis mystacinus;0
 2004;02;2003/2004;Myotis mystacinus;0
 2003;12;2003/2004;Myotis brandtii;0
 2004;02;2003/2004;Myotis brandtii;0
-2003;12;2003/2004;Barbastella barbastellus;0
-2004;02;2003/2004;Barbastella barbastellus;2
+2003;12;2003/2004;Barbastella barbastellus;8
+2004;02;2003/2004;Barbastella barbastellus;9
 2003;12;2003/2004;Eptesicus serotinus;0
-2004;02;2003/2004;Eptesicus serotinus;1
+2004;02;2003/2004;Eptesicus serotinus;2
 2003;12;2003/2004;Myotis emarginatus;0
 2004;02;2003/2004;Myotis emarginatus;0
 2003;12;2003/2004;Myotis bechsteinii;0
 2004;02;2003/2004;Myotis bechsteinii;0
-2004;12;2004/2005;celkem;0
-2005;02;2004/2005;celkem;90
-2004;12;2004/2005;Myotis nattereri;0
-2005;02;2004/2005;Myotis nattereri;42
-2004;12;2004/2005;Myotis daubentonii;0
-2005;02;2004/2005;Myotis daubentonii;7
-2004;12;2004/2005;Myotis myotis;0
-2005;02;2004/2005;Myotis myotis;28
-2004;12;2004/2005;Plecotus auritus;0
-2005;02;2004/2005;Plecotus auritus;9
+2004;12;2004/2005;celkem;67
+2005;02;2004/2005;celkem;162
+2004;12;2004/2005;Myotis nattereri;18
+2005;02;2004/2005;Myotis nattereri;51
+2004;12;2004/2005;Myotis daubentonii;6
+2005;02;2004/2005;Myotis daubentonii;18
+2004;12;2004/2005;Myotis myotis;27
+2005;02;2004/2005;Myotis myotis;60
+2004;12;2004/2005;Plecotus auritus;9
+2005;02;2004/2005;Plecotus auritus;15
 2004;12;2004/2005;Myotis mystacinus;0
 2005;02;2004/2005;Myotis mystacinus;0
 2004;12;2004/2005;Myotis brandtii;0
 2005;02;2004/2005;Myotis brandtii;0
-2004;12;2004/2005;Barbastella barbastellus;0
-2005;02;2004/2005;Barbastella barbastellus;2
+2004;12;2004/2005;Barbastella barbastellus;7
+2005;02;2004/2005;Barbastella barbastellus;12
 2004;12;2004/2005;Eptesicus serotinus;0
-2005;02;2004/2005;Eptesicus serotinus;2
+2005;02;2004/2005;Eptesicus serotinus;1
 2004;12;2004/2005;Myotis emarginatus;0
 2005;02;2004/2005;Myotis emarginatus;0
 2004;12;2004/2005;Myotis bechsteinii;0
-2005;02;2004/2005;Myotis bechsteinii;0
-2005;12;2005/2006;celkem;0
-2006;02;2005/2006;celkem;105
-2005;12;2005/2006;Myotis nattereri;0
-2006;02;2005/2006;Myotis nattereri;40
-2005;12;2005/2006;Myotis daubentonii;0
-2006;02;2005/2006;Myotis daubentonii;15
-2005;12;2005/2006;Myotis myotis;0
-2006;02;2005/2006;Myotis myotis;33
-2005;12;2005/2006;Plecotus auritus;0
-2006;02;2005/2006;Plecotus auritus;9
+2005;02;2004/2005;Myotis bechsteinii;5
+2005;12;2005/2006;celkem;51
+2006;02;2005/2006;celkem;99
+2005;12;2005/2006;Myotis nattereri;8
+2006;02;2005/2006;Myotis nattereri;32
+2005;12;2005/2006;Myotis daubentonii;2
+2006;02;2005/2006;Myotis daubentonii;3
+2005;12;2005/2006;Myotis myotis;22
+2006;02;2005/2006;Myotis myotis;55
+2005;12;2005/2006;Plecotus auritus;6
+2006;02;2005/2006;Plecotus auritus;3
 2005;12;2005/2006;Myotis mystacinus;0
 2006;02;2005/2006;Myotis mystacinus;0
 2005;12;2005/2006;Myotis brandtii;0
 2006;02;2005/2006;Myotis brandtii;0
-2005;12;2005/2006;Barbastella barbastellus;0
+2005;12;2005/2006;Barbastella barbastellus;13
 2006;02;2005/2006;Barbastella barbastellus;6
 2005;12;2005/2006;Eptesicus serotinus;0
-2006;02;2005/2006;Eptesicus serotinus;1
+2006;02;2005/2006;Eptesicus serotinus;0
 2005;12;2005/2006;Myotis emarginatus;0
-2006;02;2005/2006;Myotis emarginatus;1
+2006;02;2005/2006;Myotis emarginatus;0
 2005;12;2005/2006;Myotis bechsteinii;0
 2006;02;2005/2006;Myotis bechsteinii;0
-2006;12;2006/2007;celkem;0
-2007;02;2006/2007;celkem;145
-2006;12;2006/2007;Myotis nattereri;0
-2007;02;2006/2007;Myotis nattereri;60
-2006;12;2006/2007;Myotis daubentonii;0
-2007;02;2006/2007;Myotis daubentonii;22
-2006;12;2006/2007;Myotis myotis;0
-2007;02;2006/2007;Myotis myotis;30
-2006;12;2006/2007;Plecotus auritus;0
-2007;02;2006/2007;Plecotus auritus;27
+2006;12;2006/2007;celkem;47
+2007;02;2006/2007;celkem;78
+2006;12;2006/2007;Myotis nattereri;10
+2007;02;2006/2007;Myotis nattereri;21
+2006;12;2006/2007;Myotis daubentonii;4
+2007;02;2006/2007;Myotis daubentonii;5
+2006;12;2006/2007;Myotis myotis;17
+2007;02;2006/2007;Myotis myotis;35
+2006;12;2006/2007;Plecotus auritus;2
+2007;02;2006/2007;Plecotus auritus;6
 2006;12;2006/2007;Myotis mystacinus;0
 2007;02;2006/2007;Myotis mystacinus;0
 2006;12;2006/2007;Myotis brandtii;0
 2007;02;2006/2007;Myotis brandtii;0
-2006;12;2006/2007;Barbastella barbastellus;0
-2007;02;2006/2007;Barbastella barbastellus;5
-2006;12;2006/2007;Eptesicus serotinus;0
-2007;02;2006/2007;Eptesicus serotinus;1
+2006;12;2006/2007;Barbastella barbastellus;12
+2007;02;2006/2007;Barbastella barbastellus;8
+2006;12;2006/2007;Eptesicus serotinus;2
+2007;02;2006/2007;Eptesicus serotinus;3
 2006;12;2006/2007;Myotis emarginatus;0
 2007;02;2006/2007;Myotis emarginatus;0
 2006;12;2006/2007;Myotis bechsteinii;0
 2007;02;2006/2007;Myotis bechsteinii;0
-2007;12;2007/2008;celkem;0
-2008;02;2007/2008;celkem;183
-2007;12;2007/2008;Myotis nattereri;0
-2008;02;2007/2008;Myotis nattereri;79
-2007;12;2007/2008;Myotis daubentonii;0
-2008;02;2007/2008;Myotis daubentonii;25
-2007;12;2007/2008;Myotis myotis;0
-2008;02;2007/2008;Myotis myotis;49
-2007;12;2007/2008;Plecotus auritus;0
-2008;02;2007/2008;Plecotus auritus;25
+2007;12;2007/2008;celkem;46
+2008;02;2007/2008;celkem;84
+2007;12;2007/2008;Myotis nattereri;9
+2008;02;2007/2008;Myotis nattereri;25
+2007;12;2007/2008;Myotis daubentonii;8
+2008;02;2007/2008;Myotis daubentonii;6
+2007;12;2007/2008;Myotis myotis;11
+2008;02;2007/2008;Myotis myotis;32
+2007;12;2007/2008;Plecotus auritus;5
+2008;02;2007/2008;Plecotus auritus;9
 2007;12;2007/2008;Myotis mystacinus;0
 2008;02;2007/2008;Myotis mystacinus;0
 2007;12;2007/2008;Myotis brandtii;0
 2008;02;2007/2008;Myotis brandtii;0
-2007;12;2007/2008;Barbastella barbastellus;0
-2008;02;2007/2008;Barbastella barbastellus;3
-2007;12;2007/2008;Eptesicus serotinus;0
-2008;02;2007/2008;Eptesicus serotinus;2
+2007;12;2007/2008;Barbastella barbastellus;12
+2008;02;2007/2008;Barbastella barbastellus;12
+2007;12;2007/2008;Eptesicus serotinus;1
+2008;02;2007/2008;Eptesicus serotinus;0
 2007;12;2007/2008;Myotis emarginatus;0
 2008;02;2007/2008;Myotis emarginatus;0
 2007;12;2007/2008;Myotis bechsteinii;0
 2008;02;2007/2008;Myotis bechsteinii;0
-2008;12;2008/2009;celkem;0
-2009;02;2008/2009;celkem;121
-2008;12;2008/2009;Myotis nattereri;0
-2009;02;2008/2009;Myotis nattereri;54
-2008;12;2008/2009;Myotis daubentonii;0
-2009;02;2008/2009;Myotis daubentonii;14
-2008;12;2008/2009;Myotis myotis;0
-2009;02;2008/2009;Myotis myotis;30
-2008;12;2008/2009;Plecotus auritus;0
-2009;02;2008/2009;Plecotus auritus;13
+2008;12;2008/2009;celkem;94
+2009;02;2008/2009;celkem;138
+2008;12;2008/2009;Myotis nattereri;32
+2009;02;2008/2009;Myotis nattereri;49
+2008;12;2008/2009;Myotis daubentonii;15
+2009;02;2008/2009;Myotis daubentonii;26
+2008;12;2008/2009;Myotis myotis;21
+2009;02;2008/2009;Myotis myotis;32
+2008;12;2008/2009;Plecotus auritus;8
+2009;02;2008/2009;Plecotus auritus;12
 2008;12;2008/2009;Myotis mystacinus;0
 2009;02;2008/2009;Myotis mystacinus;0
 2008;12;2008/2009;Myotis brandtii;0
 2009;02;2008/2009;Myotis brandtii;0
-2008;12;2008/2009;Barbastella barbastellus;0
-2009;02;2008/2009;Barbastella barbastellus;8
+2008;12;2008/2009;Barbastella barbastellus;15
+2009;02;2008/2009;Barbastella barbastellus;15
 2008;12;2008/2009;Eptesicus serotinus;0
 2009;02;2008/2009;Eptesicus serotinus;2
 2008;12;2008/2009;Myotis emarginatus;0
 2009;02;2008/2009;Myotis emarginatus;0
-2008;12;2008/2009;Myotis bechsteinii;0
-2009;02;2008/2009;Myotis bechsteinii;0
-2009;12;2009/2010;celkem;0
-2010;02;2009/2010;celkem;108
-2009;12;2009/2010;Myotis nattereri;0
-2010;02;2009/2010;Myotis nattereri;28
-2009;12;2009/2010;Myotis daubentonii;0
-2010;02;2009/2010;Myotis daubentonii;7
-2009;12;2009/2010;Myotis myotis;0
-2010;02;2009/2010;Myotis myotis;42
-2009;12;2009/2010;Plecotus auritus;0
-2010;02;2009/2010;Plecotus auritus;18
-2009;12;2009/2010;Myotis mystacinus;0
+2008;12;2008/2009;Myotis bechsteinii;3
+2009;02;2008/2009;Myotis bechsteinii;2
+2009;12;2009/2010;celkem;56
+2010;02;2009/2010;celkem;78
+2009;12;2009/2010;Myotis nattereri;13
+2010;02;2009/2010;Myotis nattereri;26
+2009;12;2009/2010;Myotis daubentonii;10
+2010;02;2009/2010;Myotis daubentonii;6
+2009;12;2009/2010;Myotis myotis;17
+2010;02;2009/2010;Myotis myotis;37
+2009;12;2009/2010;Plecotus auritus;7
+2010;02;2009/2010;Plecotus auritus;5
+2009;12;2009/2010;Myotis mystacinus;1
 2010;02;2009/2010;Myotis mystacinus;0
 2009;12;2009/2010;Myotis brandtii;0
 2010;02;2009/2010;Myotis brandtii;0
-2009;12;2009/2010;Barbastella barbastellus;0
-2010;02;2009/2010;Barbastella barbastellus;11
-2009;12;2009/2010;Eptesicus serotinus;0
+2009;12;2009/2010;Barbastella barbastellus;4
+2010;02;2009/2010;Barbastella barbastellus;2
+2009;12;2009/2010;Eptesicus serotinus;4
 2010;02;2009/2010;Eptesicus serotinus;2
 2009;12;2009/2010;Myotis emarginatus;0
 2010;02;2009/2010;Myotis emarginatus;0
 2009;12;2009/2010;Myotis bechsteinii;0
 2010;02;2009/2010;Myotis bechsteinii;0
-2010;12;2010/2011;celkem;0
-2011;02;2010/2011;celkem;91
-2010;12;2010/2011;Myotis nattereri;0
-2011;02;2010/2011;Myotis nattereri;24
-2010;12;2010/2011;Myotis daubentonii;0
-2011;02;2010/2011;Myotis daubentonii;12
-2010;12;2010/2011;Myotis myotis;0
-2011;02;2010/2011;Myotis myotis;37
-2010;12;2010/2011;Plecotus auritus;0
-2011;02;2010/2011;Plecotus auritus;11
+2010;12;2010/2011;celkem;37
+2011;02;2010/2011;celkem;88
+2010;12;2010/2011;Myotis nattereri;5
+2011;02;2010/2011;Myotis nattereri;14
+2010;12;2010/2011;Myotis daubentonii;8
+2011;02;2010/2011;Myotis daubentonii;13
+2010;12;2010/2011;Myotis myotis;17
+2011;02;2010/2011;Myotis myotis;49
+2010;12;2010/2011;Plecotus auritus;2
+2011;02;2010/2011;Plecotus auritus;6
 2010;12;2010/2011;Myotis mystacinus;0
 2011;02;2010/2011;Myotis mystacinus;0
 2010;12;2010/2011;Myotis brandtii;0
 2011;02;2010/2011;Myotis brandtii;0
-2010;12;2010/2011;Barbastella barbastellus;0
-2011;02;2010/2011;Barbastella barbastellus;7
+2010;12;2010/2011;Barbastella barbastellus;4
+2011;02;2010/2011;Barbastella barbastellus;5
 2010;12;2010/2011;Eptesicus serotinus;0
 2011;02;2010/2011;Eptesicus serotinus;0
 2010;12;2010/2011;Myotis emarginatus;0
 2011;02;2010/2011;Myotis emarginatus;0
-2010;12;2010/2011;Myotis bechsteinii;0
-2011;02;2010/2011;Myotis bechsteinii;0
-2011;12;2011/2012;celkem;0
-2012;02;2011/2012;celkem;79
-2011;12;2011/2012;Myotis nattereri;0
-2012;02;2011/2012;Myotis nattereri;25
-2011;12;2011/2012;Myotis daubentonii;0
+2010;12;2010/2011;Myotis bechsteinii;1
+2011;02;2010/2011;Myotis bechsteinii;1
+2011;12;2011/2012;celkem;33
+2012;02;2011/2012;celkem;72
+2011;12;2011/2012;Myotis nattereri;10
+2012;02;2011/2012;Myotis nattereri;23
+2011;12;2011/2012;Myotis daubentonii;3
 2012;02;2011/2012;Myotis daubentonii;6
-2011;12;2011/2012;Myotis myotis;0
+2011;12;2011/2012;Myotis myotis;17
 2012;02;2011/2012;Myotis myotis;36
-2011;12;2011/2012;Plecotus auritus;0
-2012;02;2011/2012;Plecotus auritus;4
+2011;12;2011/2012;Plecotus auritus;1
+2012;02;2011/2012;Plecotus auritus;6
 2011;12;2011/2012;Myotis mystacinus;0
 2012;02;2011/2012;Myotis mystacinus;0
 2011;12;2011/2012;Myotis brandtii;0
 2012;02;2011/2012;Myotis brandtii;0
-2011;12;2011/2012;Barbastella barbastellus;0
-2012;02;2011/2012;Barbastella barbastellus;4
+2011;12;2011/2012;Barbastella barbastellus;2
+2012;02;2011/2012;Barbastella barbastellus;0
 2011;12;2011/2012;Eptesicus serotinus;0
-2012;02;2011/2012;Eptesicus serotinus;3
+2012;02;2011/2012;Eptesicus serotinus;0
 2011;12;2011/2012;Myotis emarginatus;0
 2012;02;2011/2012;Myotis emarginatus;0
 2011;12;2011/2012;Myotis bechsteinii;0
 2012;02;2011/2012;Myotis bechsteinii;1
-2012;12;2012/2013;celkem;0
-2013;02;2012/2013;celkem;78
-2012;12;2012/2013;Myotis nattereri;0
-2013;02;2012/2013;Myotis nattereri;18
-2012;12;2012/2013;Myotis daubentonii;0
-2013;02;2012/2013;Myotis daubentonii;5
-2012;12;2012/2013;Myotis myotis;0
-2013;02;2012/2013;Myotis myotis;38
-2012;12;2012/2013;Plecotus auritus;0
-2013;02;2012/2013;Plecotus auritus;9
+2012;12;2012/2013;celkem;51
+2013;02;2012/2013;celkem;95
+2012;12;2012/2013;Myotis nattereri;11
+2013;02;2012/2013;Myotis nattereri;28
+2012;12;2012/2013;Myotis daubentonii;3
+2013;02;2012/2013;Myotis daubentonii;6
+2012;12;2012/2013;Myotis myotis;22
+2013;02;2012/2013;Myotis myotis;47
+2012;12;2012/2013;Plecotus auritus;11
+2013;02;2012/2013;Plecotus auritus;8
 2012;12;2012/2013;Myotis mystacinus;0
 2013;02;2012/2013;Myotis mystacinus;0
 2012;12;2012/2013;Myotis brandtii;0
 2013;02;2012/2013;Myotis brandtii;0
-2012;12;2012/2013;Barbastella barbastellus;0
-2013;02;2012/2013;Barbastella barbastellus;7
+2012;12;2012/2013;Barbastella barbastellus;3
+2013;02;2012/2013;Barbastella barbastellus;6
 2012;12;2012/2013;Eptesicus serotinus;0
-2013;02;2012/2013;Eptesicus serotinus;1
+2013;02;2012/2013;Eptesicus serotinus;0
 2012;12;2012/2013;Myotis emarginatus;0
 2013;02;2012/2013;Myotis emarginatus;0
-2012;12;2012/2013;Myotis bechsteinii;0
+2012;12;2012/2013;Myotis bechsteinii;1
 2013;02;2012/2013;Myotis bechsteinii;0
-2013;12;2013/2014;celkem;0
+2013;12;2013/2014;celkem;NA
 2014;02;2013/2014;celkem;98
-2013;12;2013/2014;Myotis nattereri;0
+2013;12;2013/2014;Myotis nattereri;NA
 2014;02;2013/2014;Myotis nattereri;28
-2013;12;2013/2014;Myotis daubentonii;0
+2013;12;2013/2014;Myotis daubentonii;NA
 2014;02;2013/2014;Myotis daubentonii;7
-2013;12;2013/2014;Myotis myotis;0
+2013;12;2013/2014;Myotis myotis;NA
 2014;02;2013/2014;Myotis myotis;50
-2013;12;2013/2014;Plecotus auritus;0
+2013;12;2013/2014;Plecotus auritus;NA
 2014;02;2013/2014;Plecotus auritus;7
-2013;12;2013/2014;Myotis mystacinus;0
+2013;12;2013/2014;Myotis mystacinus;NA
 2014;02;2013/2014;Myotis mystacinus;0
-2013;12;2013/2014;Myotis brandtii;0
+2013;12;2013/2014;Myotis brandtii;NA
 2014;02;2013/2014;Myotis brandtii;0
-2013;12;2013/2014;Barbastella barbastellus;0
+2013;12;2013/2014;Barbastella barbastellus;NA
 2014;02;2013/2014;Barbastella barbastellus;5
-2013;12;2013/2014;Eptesicus serotinus;0
+2013;12;2013/2014;Eptesicus serotinus;NA
 2014;02;2013/2014;Eptesicus serotinus;1
-2013;12;2013/2014;Myotis emarginatus;0
+2013;12;2013/2014;Myotis emarginatus;NA
 2014;02;2013/2014;Myotis emarginatus;0
-2013;12;2013/2014;Myotis bechsteinii;0
+2013;12;2013/2014;Myotis bechsteinii;NA
 2014;02;2013/2014;Myotis bechsteinii;0
-2014;12;2014/2015;celkem;0
+2014;12;2014/2015;celkem;NA
 2015;02;2014/2015;celkem;125
-2014;12;2014/2015;Myotis nattereri;0
+2014;12;2014/2015;Myotis nattereri;NA
 2015;02;2014/2015;Myotis nattereri;38
-2014;12;2014/2015;Myotis daubentonii;0
+2014;12;2014/2015;Myotis daubentonii;NA
 2015;02;2014/2015;Myotis daubentonii;7
-2014;12;2014/2015;Myotis myotis;0
+2014;12;2014/2015;Myotis myotis;NA
 2015;02;2014/2015;Myotis myotis;55
-2014;12;2014/2015;Plecotus auritus;0
+2014;12;2014/2015;Plecotus auritus;NA
 2015;02;2014/2015;Plecotus auritus;14
-2014;12;2014/2015;Myotis mystacinus;0
+2014;12;2014/2015;Myotis mystacinus;NA
 2015;02;2014/2015;Myotis mystacinus;0
-2014;12;2014/2015;Myotis brandtii;0
+2014;12;2014/2015;Myotis brandtii;NA
 2015;02;2014/2015;Myotis brandtii;0
-2014;12;2014/2015;Barbastella barbastellus;0
+2014;12;2014/2015;Barbastella barbastellus;NA
 2015;02;2014/2015;Barbastella barbastellus;9
-2014;12;2014/2015;Eptesicus serotinus;0
+2014;12;2014/2015;Eptesicus serotinus;NA
 2015;02;2014/2015;Eptesicus serotinus;2
-2014;12;2014/2015;Myotis emarginatus;0
+2014;12;2014/2015;Myotis emarginatus;NA
 2015;02;2014/2015;Myotis emarginatus;0
-2014;12;2014/2015;Myotis bechsteinii;0
+2014;12;2014/2015;Myotis bechsteinii;NA
 2015;02;2014/2015;Myotis bechsteinii;0
-2015;12;2015/2016;celkem;0
+2015;12;2015/2016;celkem;NA
 2016;02;2015/2016;celkem;92
-2015;12;2015/2016;Myotis nattereri;0
+2015;12;2015/2016;Myotis nattereri;NA
 2016;02;2015/2016;Myotis nattereri;17
-2015;12;2015/2016;Myotis daubentonii;0
+2015;12;2015/2016;Myotis daubentonii;NA
 2016;02;2015/2016;Myotis daubentonii;8
-2015;12;2015/2016;Myotis myotis;0
+2015;12;2015/2016;Myotis myotis;NA
 2016;02;2015/2016;Myotis myotis;48
-2015;12;2015/2016;Plecotus auritus;0
+2015;12;2015/2016;Plecotus auritus;NA
 2016;02;2015/2016;Plecotus auritus;8
-2015;12;2015/2016;Myotis mystacinus;0
+2015;12;2015/2016;Myotis mystacinus;NA
 2016;02;2015/2016;Myotis mystacinus;0
-2015;12;2015/2016;Myotis brandtii;0
+2015;12;2015/2016;Myotis brandtii;NA
 2016;02;2015/2016;Myotis brandtii;0
-2015;12;2015/2016;Barbastella barbastellus;0
+2015;12;2015/2016;Barbastella barbastellus;NA
 2016;02;2015/2016;Barbastella barbastellus;9
-2015;12;2015/2016;Eptesicus serotinus;0
+2015;12;2015/2016;Eptesicus serotinus;NA
 2016;02;2015/2016;Eptesicus serotinus;2
-2015;12;2015/2016;Myotis emarginatus;0
+2015;12;2015/2016;Myotis emarginatus;NA
 2016;02;2015/2016;Myotis emarginatus;0
-2015;12;2015/2016;Myotis bechsteinii;0
+2015;12;2015/2016;Myotis bechsteinii;NA
 2016;02;2015/2016;Myotis bechsteinii;0
-2016;12;2016/2017;celkem;0
+2016;12;2016/2017;celkem;NA
 2017;02;2016/2017;celkem;162
-2016;12;2016/2017;Myotis nattereri;0
+2016;12;2016/2017;Myotis nattereri;NA
 2017;02;2016/2017;Myotis nattereri;51
-2016;12;2016/2017;Myotis daubentonii;0
+2016;12;2016/2017;Myotis daubentonii;NA
 2017;02;2016/2017;Myotis daubentonii;18
-2016;12;2016/2017;Myotis myotis;0
+2016;12;2016/2017;Myotis myotis;NA
 2017;02;2016/2017;Myotis myotis;60
-2016;12;2016/2017;Plecotus auritus;0
+2016;12;2016/2017;Plecotus auritus;NA
 2017;02;2016/2017;Plecotus auritus;15
-2016;12;2016/2017;Myotis mystacinus;0
+2016;12;2016/2017;Myotis mystacinus;NA
 2017;02;2016/2017;Myotis mystacinus;0
-2016;12;2016/2017;Myotis brandtii;0
+2016;12;2016/2017;Myotis brandtii;NA
 2017;02;2016/2017;Myotis brandtii;0
-2016;12;2016/2017;Barbastella barbastellus;0
+2016;12;2016/2017;Barbastella barbastellus;NA
 2017;02;2016/2017;Barbastella barbastellus;12
-2016;12;2016/2017;Eptesicus serotinus;0
+2016;12;2016/2017;Eptesicus serotinus;NA
 2017;02;2016/2017;Eptesicus serotinus;1
-2016;12;2016/2017;Myotis emarginatus;0
+2016;12;2016/2017;Myotis emarginatus;NA
 2017;02;2016/2017;Myotis emarginatus;0
-2016;12;2016/2017;Myotis bechsteinii;0
+2016;12;2016/2017;Myotis bechsteinii;NA
 2017;02;2016/2017;Myotis bechsteinii;5
-2017;12;2017/2018;celkem;0
+2017;12;2017/2018;celkem;NA
 2018;02;2017/2018;celkem;99
-2017;12;2017/2018;Myotis nattereri;0
+2017;12;2017/2018;Myotis nattereri;NA
 2018;02;2017/2018;Myotis nattereri;32
-2017;12;2017/2018;Myotis daubentonii;0
+2017;12;2017/2018;Myotis daubentonii;NA
 2018;02;2017/2018;Myotis daubentonii;3
-2017;12;2017/2018;Myotis myotis;0
+2017;12;2017/2018;Myotis myotis;NA
 2018;02;2017/2018;Myotis myotis;55
-2017;12;2017/2018;Plecotus auritus;0
+2017;12;2017/2018;Plecotus auritus;NA
 2018;02;2017/2018;Plecotus auritus;3
-2017;12;2017/2018;Myotis mystacinus;0
+2017;12;2017/2018;Myotis mystacinus;NA
 2018;02;2017/2018;Myotis mystacinus;0
-2017;12;2017/2018;Myotis brandtii;0
+2017;12;2017/2018;Myotis brandtii;NA
 2018;02;2017/2018;Myotis brandtii;0
-2017;12;2017/2018;Barbastella barbastellus;0
+2017;12;2017/2018;Barbastella barbastellus;NA
 2018;02;2017/2018;Barbastella barbastellus;6
-2017;12;2017/2018;Eptesicus serotinus;0
+2017;12;2017/2018;Eptesicus serotinus;NA
 2018;02;2017/2018;Eptesicus serotinus;0
-2017;12;2017/2018;Myotis emarginatus;0
+2017;12;2017/2018;Myotis emarginatus;NA
 2018;02;2017/2018;Myotis emarginatus;0
-2017;12;2017/2018;Myotis bechsteinii;0
+2017;12;2017/2018;Myotis bechsteinii;NA
 2018;02;2017/2018;Myotis bechsteinii;0
-2018;12;2018/2019;celkem;0
+2018;12;2018/2019;celkem;NA
 2019;02;2018/2019;celkem;78
-2018;12;2018/2019;Myotis nattereri;0
+2018;12;2018/2019;Myotis nattereri;NA
 2019;02;2018/2019;Myotis nattereri;21
-2018;12;2018/2019;Myotis daubentonii;0
+2018;12;2018/2019;Myotis daubentonii;NA
 2019;02;2018/2019;Myotis daubentonii;5
-2018;12;2018/2019;Myotis myotis;0
+2018;12;2018/2019;Myotis myotis;NA
 2019;02;2018/2019;Myotis myotis;35
-2018;12;2018/2019;Plecotus auritus;0
+2018;12;2018/2019;Plecotus auritus;NA
 2019;02;2018/2019;Plecotus auritus;6
-2018;12;2018/2019;Myotis mystacinus;0
+2018;12;2018/2019;Myotis mystacinus;NA
 2019;02;2018/2019;Myotis mystacinus;0
-2018;12;2018/2019;Myotis brandtii;0
+2018;12;2018/2019;Myotis brandtii;NA
 2019;02;2018/2019;Myotis brandtii;0
-2018;12;2018/2019;Barbastella barbastellus;0
+2018;12;2018/2019;Barbastella barbastellus;NA
 2019;02;2018/2019;Barbastella barbastellus;8
-2018;12;2018/2019;Eptesicus serotinus;0
+2018;12;2018/2019;Eptesicus serotinus;NA
 2019;02;2018/2019;Eptesicus serotinus;3
-2018;12;2018/2019;Myotis emarginatus;0
+2018;12;2018/2019;Myotis emarginatus;NA
 2019;02;2018/2019;Myotis emarginatus;0
-2018;12;2018/2019;Myotis bechsteinii;0
+2018;12;2018/2019;Myotis bechsteinii;NA
 2019;02;2018/2019;Myotis bechsteinii;0
-2019;12;2019/2020;celkem;0
+2019;12;2019/2020;celkem;NA
 2020;02;2019/2020;celkem;84
-2019;12;2019/2020;Myotis nattereri;0
+2019;12;2019/2020;Myotis nattereri;NA
 2020;02;2019/2020;Myotis nattereri;25
-2019;12;2019/2020;Myotis daubentonii;0
+2019;12;2019/2020;Myotis daubentonii;NA
 2020;02;2019/2020;Myotis daubentonii;6
-2019;12;2019/2020;Myotis myotis;0
+2019;12;2019/2020;Myotis myotis;NA
 2020;02;2019/2020;Myotis myotis;32
-2019;12;2019/2020;Plecotus auritus;0
+2019;12;2019/2020;Plecotus auritus;NA
 2020;02;2019/2020;Plecotus auritus;9
-2019;12;2019/2020;Myotis mystacinus;0
+2019;12;2019/2020;Myotis mystacinus;NA
 2020;02;2019/2020;Myotis mystacinus;0
-2019;12;2019/2020;Myotis brandtii;0
+2019;12;2019/2020;Myotis brandtii;NA
 2020;02;2019/2020;Myotis brandtii;0
-2019;12;2019/2020;Barbastella barbastellus;0
+2019;12;2019/2020;Barbastella barbastellus;NA
 2020;02;2019/2020;Barbastella barbastellus;12
-2019;12;2019/2020;Eptesicus serotinus;0
+2019;12;2019/2020;Eptesicus serotinus;NA
 2020;02;2019/2020;Eptesicus serotinus;0
-2019;12;2019/2020;Myotis emarginatus;0
+2019;12;2019/2020;Myotis emarginatus;NA
 2020;02;2019/2020;Myotis emarginatus;0
-2019;12;2019/2020;Myotis bechsteinii;0
+2019;12;2019/2020;Myotis bechsteinii;NA
 2020;02;2019/2020;Myotis bechsteinii;0
-2020;12;2020/2021;celkem;0
+2020;12;2020/2021;celkem;NA
 2021;02;2020/2021;celkem;138
-2020;12;2020/2021;Myotis nattereri;0
+2020;12;2020/2021;Myotis nattereri;NA
 2021;02;2020/2021;Myotis nattereri;49
-2020;12;2020/2021;Myotis daubentonii;0
+2020;12;2020/2021;Myotis daubentonii;NA
 2021;02;2020/2021;Myotis daubentonii;26
-2020;12;2020/2021;Myotis myotis;0
+2020;12;2020/2021;Myotis myotis;NA
 2021;02;2020/2021;Myotis myotis;32
-2020;12;2020/2021;Plecotus auritus;0
+2020;12;2020/2021;Plecotus auritus;NA
 2021;02;2020/2021;Plecotus auritus;12
-2020;12;2020/2021;Myotis mystacinus;0
+2020;12;2020/2021;Myotis mystacinus;NA
 2021;02;2020/2021;Myotis mystacinus;0
-2020;12;2020/2021;Myotis brandtii;0
+2020;12;2020/2021;Myotis brandtii;NA
 2021;02;2020/2021;Myotis brandtii;0
-2020;12;2020/2021;Barbastella barbastellus;0
+2020;12;2020/2021;Barbastella barbastellus;NA
 2021;02;2020/2021;Barbastella barbastellus;15
-2020;12;2020/2021;Eptesicus serotinus;0
+2020;12;2020/2021;Eptesicus serotinus;NA
 2021;02;2020/2021;Eptesicus serotinus;2
-2020;12;2020/2021;Myotis emarginatus;0
+2020;12;2020/2021;Myotis emarginatus;NA
 2021;02;2020/2021;Myotis emarginatus;0
-2020;12;2020/2021;Myotis bechsteinii;0
+2020;12;2020/2021;Myotis bechsteinii;NA
 2021;02;2020/2021;Myotis bechsteinii;2
-2021;12;2021/2022;celkem;0
+2021;12;2021/2022;celkem;NA
 2022;02;2021/2022;celkem;78
-2021;12;2021/2022;Myotis nattereri;0
+2021;12;2021/2022;Myotis nattereri;NA
 2022;02;2021/2022;Myotis nattereri;26
-2021;12;2021/2022;Myotis daubentonii;0
+2021;12;2021/2022;Myotis daubentonii;NA
 2022;02;2021/2022;Myotis daubentonii;6
-2021;12;2021/2022;Myotis myotis;0
+2021;12;2021/2022;Myotis myotis;NA
 2022;02;2021/2022;Myotis myotis;37
-2021;12;2021/2022;Plecotus auritus;0
+2021;12;2021/2022;Plecotus auritus;NA
 2022;02;2021/2022;Plecotus auritus;5
-2021;12;2021/2022;Myotis mystacinus;0
+2021;12;2021/2022;Myotis mystacinus;NA
 2022;02;2021/2022;Myotis mystacinus;0
-2021;12;2021/2022;Myotis brandtii;0
+2021;12;2021/2022;Myotis brandtii;NA
 2022;02;2021/2022;Myotis brandtii;0
-2021;12;2021/2022;Barbastella barbastellus;0
+2021;12;2021/2022;Barbastella barbastellus;NA
 2022;02;2021/2022;Barbastella barbastellus;2
-2021;12;2021/2022;Eptesicus serotinus;0
+2021;12;2021/2022;Eptesicus serotinus;NA
 2022;02;2021/2022;Eptesicus serotinus;2
-2021;12;2021/2022;Myotis emarginatus;0
+2021;12;2021/2022;Myotis emarginatus;NA
 2022;02;2021/2022;Myotis emarginatus;0
-2021;12;2021/2022;Myotis bechsteinii;0
+2021;12;2021/2022;Myotis bechsteinii;NA
 2022;02;2021/2022;Myotis bechsteinii;0
-2022;12;2022/2023;celkem;0
+2022;12;2022/2023;celkem;NA
 2023;02;2022/2023;celkem;88
-2022;12;2022/2023;Myotis nattereri;0
+2022;12;2022/2023;Myotis nattereri;NA
 2023;02;2022/2023;Myotis nattereri;14
-2022;12;2022/2023;Myotis daubentonii;0
+2022;12;2022/2023;Myotis daubentonii;NA
 2023;02;2022/2023;Myotis daubentonii;13
-2022;12;2022/2023;Myotis myotis;0
+2022;12;2022/2023;Myotis myotis;NA
 2023;02;2022/2023;Myotis myotis;49
-2022;12;2022/2023;Plecotus auritus;0
+2022;12;2022/2023;Plecotus auritus;NA
 2023;02;2022/2023;Plecotus auritus;6
-2022;12;2022/2023;Myotis mystacinus;0
+2022;12;2022/2023;Myotis mystacinus;NA
 2023;02;2022/2023;Myotis mystacinus;0
-2022;12;2022/2023;Myotis brandtii;0
+2022;12;2022/2023;Myotis brandtii;NA
 2023;02;2022/2023;Myotis brandtii;0
-2022;12;2022/2023;Barbastella barbastellus;0
+2022;12;2022/2023;Barbastella barbastellus;NA
 2023;02;2022/2023;Barbastella barbastellus;5
-2022;12;2022/2023;Eptesicus serotinus;0
+2022;12;2022/2023;Eptesicus serotinus;NA
 2023;02;2022/2023;Eptesicus serotinus;0
-2022;12;2022/2023;Myotis emarginatus;0
+2022;12;2022/2023;Myotis emarginatus;NA
 2023;02;2022/2023;Myotis emarginatus;0
-2022;12;2022/2023;Myotis bechsteinii;0
+2022;12;2022/2023;Myotis bechsteinii;NA
 2023;02;2022/2023;Myotis bechsteinii;1
-2023;12;2023/2024;celkem;0
+2023;12;2023/2024;celkem;NA
 2024;02;2023/2024;celkem;72
-2023;12;2023/2024;Myotis nattereri;0
+2023;12;2023/2024;Myotis nattereri;NA
 2024;02;2023/2024;Myotis nattereri;23
-2023;12;2023/2024;Myotis daubentonii;0
+2023;12;2023/2024;Myotis daubentonii;NA
 2024;02;2023/2024;Myotis daubentonii;6
-2023;12;2023/2024;Myotis myotis;0
+2023;12;2023/2024;Myotis myotis;NA
 2024;02;2023/2024;Myotis myotis;36
-2023;12;2023/2024;Plecotus auritus;0
+2023;12;2023/2024;Plecotus auritus;NA
 2024;02;2023/2024;Plecotus auritus;6
-2023;12;2023/2024;Myotis mystacinus;0
+2023;12;2023/2024;Myotis mystacinus;NA
 2024;02;2023/2024;Myotis mystacinus;0
-2023;12;2023/2024;Myotis brandtii;0
+2023;12;2023/2024;Myotis brandtii;NA
 2024;02;2023/2024;Myotis brandtii;0
-2023;12;2023/2024;Barbastella barbastellus;0
+2023;12;2023/2024;Barbastella barbastellus;NA
 2024;02;2023/2024;Barbastella barbastellus;0
-2023;12;2023/2024;Eptesicus serotinus;0
+2023;12;2023/2024;Eptesicus serotinus;NA
 2024;02;2023/2024;Eptesicus serotinus;0
-2023;12;2023/2024;Myotis emarginatus;0
+2023;12;2023/2024;Myotis emarginatus;NA
 2024;02;2023/2024;Myotis emarginatus;0
-2023;12;2023/2024;Myotis bechsteinii;0
+2023;12;2023/2024;Myotis bechsteinii;NA
 2024;02;2023/2024;Myotis bechsteinii;1
-2024;12;2024/2025;celkem;0
+2024;12;2024/2025;celkem;NA
 2025;02;2024/2025;celkem;95
-2024;12;2024/2025;Myotis nattereri;0
+2024;12;2024/2025;Myotis nattereri;NA
 2025;02;2024/2025;Myotis nattereri;28
-2024;12;2024/2025;Myotis daubentonii;0
+2024;12;2024/2025;Myotis daubentonii;NA
 2025;02;2024/2025;Myotis daubentonii;6
-2024;12;2024/2025;Myotis myotis;0
+2024;12;2024/2025;Myotis myotis;NA
 2025;02;2024/2025;Myotis myotis;47
-2024;12;2024/2025;Plecotus auritus;0
+2024;12;2024/2025;Plecotus auritus;NA
 2025;02;2024/2025;Plecotus auritus;8
-2024;12;2024/2025;Myotis mystacinus;0
+2024;12;2024/2025;Myotis mystacinus;NA
 2025;02;2024/2025;Myotis mystacinus;0
-2024;12;2024/2025;Myotis brandtii;0
+2024;12;2024/2025;Myotis brandtii;NA
 2025;02;2024/2025;Myotis brandtii;0
-2024;12;2024/2025;Barbastella barbastellus;0
+2024;12;2024/2025;Barbastella barbastellus;NA
 2025;02;2024/2025;Barbastella barbastellus;6
-2024;12;2024/2025;Eptesicus serotinus;0
+2024;12;2024/2025;Eptesicus serotinus;NA
 2025;02;2024/2025;Eptesicus serotinus;0
-2024;12;2024/2025;Myotis emarginatus;0
+2024;12;2024/2025;Myotis emarginatus;NA
 2025;02;2024/2025;Myotis emarginatus;0
-2024;12;2024/2025;Myotis bechsteinii;0
+2024;12;2024/2025;Myotis bechsteinii;NA
 2025;02;2024/2025;Myotis bechsteinii;0
