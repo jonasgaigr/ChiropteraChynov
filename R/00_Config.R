@@ -73,11 +73,7 @@ chynov <- df %>%
     # Numeric year for plotting
     rok = ifelse(mesic == "12", as.numeric(sezona_start), as.numeric(sezona_end))
   ) %>%
-  dplyr::select(rok, mesic, sezona, druh, pocet) %>%
-  # replace all NAs with 0
-  dplyr::mutate(
-    dplyr::across(everything(), ~ ifelse(is.na(.x), 0, .x))
-  )
+  dplyr::select(rok, mesic, sezona, druh, pocet)
 
 glimpse(chynov)
 
