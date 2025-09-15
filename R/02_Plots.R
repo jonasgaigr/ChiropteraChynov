@@ -7,11 +7,46 @@ if(!dir.exists("Outputs/Plots/selected"))  dir.create("Outputs/Plots/selected", 
 species_list <- unique(chynov$druh)
 species_list_selected <- unique(chynov_selected$druh)
 
+# Slovník vědecký → český název
+species_names <- c(
+  "Myotis myotis"             = "netopýr velký",
+  "Myotis blythii"            = "netopýr východní",
+  "Myotis daubentonii"        = "netopýr vodní",
+  "Myotis mystacinus"         = "netopýr vousatý",
+  "Myotis brandtii"           = "netopýr Brandtův",
+  "Myotis bechsteinii"        = "netopýr Bechsteinův",
+  "Myotis nattereri"          = "netopýr řasnatý",
+  "Myotis emarginatus"        = "netopýr brvitý",
+  
+  "Barbastella barbastellus"  = "netopýr černý",
+  
+  "Plecotus auritus"          = "netopýr ušatý",
+  "Plecotus austriacus"       = "netopýr dlouhouchý",
+  
+  "Rhinolophus hipposideros"  = "vrápenec malý",
+  "Rhinolophus ferrumequinum" = "vrápenec velký",
+  
+  "Eptesicus serotinus"       = "netopýr večerní",
+  "Vespertilio murinus"       = "netopýr rezavý",
+  "Nyctalus noctula"          = "netopýr rezavý (noční)",
+  "Pipistrellus pipistrellus" = "netopýr hvízdavý",
+  "Pipistrellus pygmaeus"     = "netopýr nejmenší",
+  "Pipistrellus nathusii"     = "netopýr parkový",
+  
+  "celkem"  = "všechny druhy"
+)
+
+
+
 # Plot function with optional monthly coloring ----
+library(ggtext)
+
 plot_species <- function(sp, data, monthly = FALSE, output_dir = "Outputs/Plots") {
   df_sp <- dplyr::filter(data, druh == sp)
   
-  # Převod měsíců jen pokud monthly = TRUE
+  cz_name <- species_names[sp]
+  if (is.na(cz_name)) cz_name <- sp
+  
   if (monthly) {
     df_sp <- df_sp %>%
       dplyr::mutate(
@@ -30,24 +65,22 @@ plot_species <- function(sp, data, monthly = FALSE, output_dir = "Outputs/Plots"
   p <- ggplot(df_sp, aes_mapping) + 
     geom_point() +
     geom_smooth(method = "glm", se = TRUE) +
-    ggtitle(paste0("Vývoj počtu jedinců – ", sp, "\n")) +
+    ggtitle(paste0(cz_name, " (<i>", sp, "</i>)"), "\n") +
     xlab("\nrok") +
-    ylab("počet\n") +
+    ylab("počet zimujících jedinců\n") +
     theme_bw() +
     theme(
       axis.text.x = element_text(size = 10, angle = 45, vjust = 1, hjust = 1),
       axis.text.y = element_text(size = 10),
       axis.title = element_text(size = 12),
-      plot.title = element_text(hjust = 0.5),
+      plot.title = element_markdown(hjust = 0.5),   # markdown → podpora <i>
       panel.grid = element_blank(),
       legend.title = element_text(),
       legend.position = if(monthly) c(1.125, 0.5) else "none",
       legend.text = element_text(size = 9),
       plot.margin = grid::unit(c(1,3,1,1), "cm")
-    ) +
-    theme(legend.title.align = 0.5)
+    )
   
-  # Save the plot
   filename <- paste0(output_dir, "/", gsub(" ", "_", sp), ".png")
   ggsave(filename = filename, plot = p, width = 8, height = 5)
   
