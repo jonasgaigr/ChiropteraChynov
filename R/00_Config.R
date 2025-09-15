@@ -90,7 +90,8 @@ chynov_selected <-
       "Myotis daubentonii", 
       "Myotis myotis", 
       "Plecotus auritus", 
-      "Barbastella barbastellus")
+      "Barbastella barbastellus",
+      "celkem")
     ) %>%
   dplyr::filter(
     mesic == "02"
