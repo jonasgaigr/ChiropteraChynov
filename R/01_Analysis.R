@@ -1,3 +1,13 @@
+# Read processed data ----
+chynov <- readr::read_csv2(
+  "Data/Processed/chynov.csv"
+)
+
+chynov_selected <- readr::read_csv2(
+  "Data/Processed/chynov_selected.csv"
+)
+
+# Analysis----
 chynov_sum <-
   chynov %>%
   dplyr::group_by(
