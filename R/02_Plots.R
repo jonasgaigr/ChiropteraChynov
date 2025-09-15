@@ -1,16 +1,13 @@
-library(ggplot2)
-library(dplyr)
-library(purrr)
-library(stringr)
-
-# Ensure output directories exist
+# Ensure output directories exist ----
 if(!dir.exists("Outputs/Plots/monthly")) dir.create("Outputs/Plots/monthly", recursive = TRUE)
 if(!dir.exists("Outputs/Plots/season"))  dir.create("Outputs/Plots/season", recursive = TRUE)
+if(!dir.exists("Outputs/Plots/selected"))  dir.create("Outputs/Plots/selected", recursive = TRUE)
 
 # Use species from chynov as the master key
 species_list <- unique(chynov$druh)
+species_list_selected <- unique(chynov_selected$druh)
 
-# Plot function with optional monthly coloring
+# Plot function with optional monthly coloring ----
 plot_species <- function(sp, data, monthly = FALSE, output_dir = "Outputs/Plots") {
   df_sp <- dplyr::filter(data, druh == sp)
   
@@ -57,12 +54,15 @@ plot_species <- function(sp, data, monthly = FALSE, output_dir = "Outputs/Plots"
   return(p)
 }
 
-# --- Monthly plots ---
+# Monthly plots ----
 plots_monthly <- purrr::map(species_list, ~ plot_species(.x, chynov, monthly = TRUE, output_dir = "Outputs/Plots/monthly"))
 
-# --- Season-only plots ---
+# Season-only plots ----
 # Ensure rok numeric for plotting
 chynov_sum <- chynov_sum %>%
   dplyr::mutate(rok = as.numeric(str_sub(sezona, 1, 4)))
 
 plots_season <- purrr::map(species_list, ~ plot_species(.x, chynov_sum, monthly = FALSE, output_dir = "Outputs/Plots/season"))
+
+# Selected species plots ----
+plots_selected <- purrr::map(species_list_selected, ~ plot_species(.x, chynov_selected, monthly = FALSE, output_dir = "Outputs/Plots/selected"))
