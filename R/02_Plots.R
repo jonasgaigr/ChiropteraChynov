@@ -81,6 +81,11 @@ plot_species <- function(sp, data, monthly = FALSE, output_dir = "Outputs/Plots"
       plot.margin = grid::unit(c(1,3,1,1), "cm")
     )
   
+  if (monthly) {
+    p <- p +
+      labs(colour = "měsíc")
+  }
+  
   filename <- paste0(output_dir, "/", gsub(" ", "_", sp), ".png")
   ggsave(filename = filename, plot = p, width = 8, height = 5)
   
