@@ -9,7 +9,8 @@ packages <- c(
   "proj4", 
   "openxlsx",
   "fuzzyjoin", 
-  "remotes"
+  "remotes",
+  "ggtext"
 )
 
 # Standard package
