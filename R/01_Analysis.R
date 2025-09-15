@@ -7,7 +7,7 @@ chynov_selected <- readr::read_csv2(
   "Data/Processed/chynov_selected.csv"
 )
 
-# Analysis----
+## Data preparaion----
 chynov_sum <-
   chynov %>%
   dplyr::group_by(
@@ -20,7 +20,8 @@ chynov_sum <-
   ) %>%
   dplyr::distinct()
 
-# ---- CHÝNOV COLONY DISTRIBUTION & TESTS ----
+# Analysis----
+## ---- Including month data ----
 # assume `chynov` has columns mesic, rok, druh and pocet
 
 # distribuce log-transformovaných početností
@@ -52,7 +53,7 @@ list(
 )
 
 
-# ---- BATS TRENDS BY SPECIES ----
+## BATS TRENDS BY SPECIES ----
 bat_models <- chynov %>%
   dplyr::group_by(druh) %>%
   dplyr::reframe(
@@ -92,7 +93,53 @@ bat_models_formatted <- bat_models %>%
 # View or export
 print(bat_models)
 
+## Selected species ----
+bat_models_selected <- chynov_selected %>%
+  dplyr::group_by(druh) %>%
+  dplyr::reframe(
+    tidied = list({
+      fit <- try(stats::lm(pocet ~ rok, data = dplyr::pick(dplyr::everything())), silent = TRUE)
+      if (inherits(fit, "try-error")) return(broom::tidy(stats::lm(0 ~ 1))) 
+      broom::tidy(fit)
+    }),
+    glanced = list({
+      fit <- try(stats::lm(pocet ~ rok, data = dplyr::pick(dplyr::everything())), silent = TRUE)
+      if (inherits(fit, "try-error")) return(tibble::tibble(adj.r.squared = NA_real_))
+      broom::glance(fit)
+    }),
+    .groups = "drop"
+  ) %>%
+  dplyr::mutate(
+    coef    = purrr::map_dbl(tidied, ~ { tmp <- dplyr::filter(.x, term == "rok") %>% dplyr::pull(estimate); if(length(tmp) == 0) NA_real_ else tmp }),
+    p.value = purrr::map_dbl(tidied, ~ { tmp <- dplyr::filter(.x, term == "rok") %>% dplyr::pull(p.value); if(length(tmp) == 0) NA_real_ else tmp }),
+    adj.R2  = purrr::map_dbl(glanced, "adj.r.squared")
+  ) %>%
+  dplyr::select(-tidied, -glanced) %>%
+  dplyr::mutate(
+    trend = dplyr::case_when(
+      is.na(p.value)        ~ "no data",
+      p.value > 0.05        ~ "no trend",
+      coef > 0              ~ "positive",
+      TRUE                  ~ "negative"
+    )
+  )
+
+# Optional: format only for display
+bat_models_formatted_selected <- bat_models_selected %>%
+  dplyr::mutate(
+    dplyr::across(c(coef, p.value, adj.R2), ~ base::formatC(.x, digits = 3, format = "f"))
+  )
+
+# View or export
+print(bat_models_selected)
+
+
+# Write results ----
 readr::write_csv2(
   bat_models, 
   "Outputs/bat_trends_by_species.csv"
   )
+readr::write_csv2(
+  bat_models_selected, 
+  "Outputs/bat_trends_by_species_selected.csv"
+)
